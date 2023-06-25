@@ -1,0 +1,31 @@
+@import url("variables.css");
+body header {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  background-color: var(--cvsu-green);
+}
+body header ul {
+  margin: 0;
+  padding: 0;
+}
+body header ul li {
+  padding: 40px;
+  list-style-type: none;
+}
+body header ul li a {
+  text-decoration: none;
+  color: var(--white);
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  transition: color 250ms ease-in-out;
+  line-height: 0;
+}
+body header ul li a .text_yellow {
+  margin-right: 8px;
+  color: var(--yellow) !important;
+}
+body header ul li a:hover {
+  color: var(--yellow);
+}/*# sourceMappingURL=topnavigation.css.map */

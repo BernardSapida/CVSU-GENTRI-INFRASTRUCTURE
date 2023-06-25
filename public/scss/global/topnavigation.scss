@@ -1,0 +1,39 @@
+@import url("variables.css");
+
+body {
+  & header {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: var(--cvsu-green);
+
+    & ul {
+      margin: 0;
+      padding: 0;
+
+      & li {
+        padding: 40px;
+        list-style-type: none;
+
+        & a {
+          text-decoration: none;
+          color: var(--white);
+          font-family: "Roboto", Arial, Helvetica, sans-serif;
+          font-weight: 400;
+          font-size: 15px;
+          transition: color 250ms ease-in-out;
+          line-height: 0;
+
+          & .text_yellow {
+            margin-right: 8px;
+            color: var(--yellow) !important;
+          }
+
+          &:hover {
+            color: var(--yellow);
+          }
+        }
+      }
+    }
+  }
+}
