@@ -6,7 +6,6 @@ import {
   BsFacebook,
   BsInstagram,
 } from "react-icons/bs";
-import { MdSchool } from "react-icons/Md";
 
 import { useRouter } from "next/navigation";
 import Image from "next/image";
@@ -27,9 +26,6 @@ export default function TopNavigation() {
       </ul>
       <ul>
         <li>
-          <Link href="#" className="mx-1 fs-6">
-            <MdSchool />
-          </Link>
           <Link href="#" className="mx-1 fs-6">
             <BsFacebook />
           </Link>
