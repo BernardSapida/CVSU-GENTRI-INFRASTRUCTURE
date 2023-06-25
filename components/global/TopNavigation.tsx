@@ -1,7 +1,7 @@
 "use client";
 
 import { BsFillTelephoneFill, BsTwitter, BsInstagram } from "react-icons/bs";
-import { FaFacebookF } from "react-icons/Fa";
+import { ImFacebook } from "react-icons/Im";
 import { MdSchool } from "react-icons/Md";
 
 import { useRouter } from "next/navigation";
@@ -27,7 +27,7 @@ export default function TopNavigation() {
             <MdSchool />
           </Link>
           <Link href="#" className="mx-1 fs-6">
-            <FaFacebookF />
+            <ImFacebook />
           </Link>
           <Link href="#" className="mx-1 fs-6">
             <BsTwitter />
