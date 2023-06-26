@@ -40,11 +40,17 @@ export default function App({
           name="author"
           content="Bernard Sapida, Shania Gwyneth Nuga, Ralph Howard Azarcon, Christian Arby Camama"
         />
-        <meta property="og:title" content="Sweet Rounds" />
-        <meta property="og:url" content="https://sweetrounds.vercel.app/" />
+        <meta
+          property="og:title"
+          content="Cavite State University - General Trias City Campus"
+        />
+        <meta
+          property="og:url"
+          content="https://cvsu-gentri-infrastructure.vercel.app/"
+        />
         <meta
           property="og:image"
-          content="https://images.pexels.com/photos/3628508/pexels-photo-3628508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          content="https://th.bing.com/th/id/OIP.deauE7kIHBwozZ4ffLbyXQHaFy?pid=ImgDet&rs=1"
         />
       </Head>
       <NextNProgress
