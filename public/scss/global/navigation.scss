@@ -11,14 +11,12 @@ body {
       padding: 0;
 
       & li {
-        padding: 40px;
         list-style-type: none;
 
         & a {
           position: relative;
           text-decoration: none;
           color: var(--cvsu-green);
-          font-family: "Roboto", Arial, Helvetica, sans-serif;
           font-weight: 500;
           font-size: 15px;
           transition: all 1150ms ease-in-out;

@@ -2,7 +2,7 @@
   {
     "number": "1",
     "building": "ComPAC Community Police Precinct Manggahan",
-    "location": "",
+    "location": "Governor's Dr, Brgy. Manggahan",
     "latitude": "14.291955",
     "longtitude": "120.91101",
     "ncsp year": "2015 (7th Edition)",
@@ -17,7 +17,7 @@
   {
     "number": "2",
     "building": "City Health Center",
-    "location": "",
+    "location": "Mary St, Sunshine Village, Brgy. Manggahan",
     "latitude": "14.2973477",
     "longtitude": "120.9099506",
     "ncsp year": "2015 (7th Edition)",
@@ -32,7 +32,7 @@
   {
     "number": "3",
     "building": "Manpower Development Center",
-    "location": "",
+    "location": "Gov Ferrer Dr, Brgy. Pasong Kawayan II",
     "latitude": "14.33858392",
     "longtitude": "120.881965",
     "ncsp year": "2015 (7th Edition)",
@@ -46,8 +46,8 @@
   },
   {
     "number": "4",
-    "building": "Bureau of Fire Protection: Main Building",
-    "location": "",
+    "building": "Bureau of Fire Protection - Main Building",
+    "location": "Gov Ferrer Dr, Brgy. Pasong Kawayan II",
     "latitude": "14.33879917",
     "longtitude": "120.8817844",
     "ncsp year": "2015 (7th Edition)",
@@ -61,8 +61,8 @@
   },
   {
     "number": "5",
-    "building": "Bureau of Fire Protection: Parking Area",
-    "location": "",
+    "building": "Bureau of Fire Protection - Parking Area",
+    "location": "Gov Ferrer Dr, Brgy. Pasong Kawayan II",
     "latitude": "14.33891285",
     "longtitude": "120.8819252",
     "ncsp year": "2015 (7th Edition)",
@@ -77,7 +77,7 @@
   {
     "number": "6",
     "building": "City Disaster Risk Reduction and Management Council",
-    "location": "",
+    "location": "Gov Ferrer Dr, Brgy. Pasong Kawayan II",
     "latitude": "14.33852768",
     "longtitude": "120.8816077",
     "ncsp year": "2015 (7th Edition)",
@@ -92,7 +92,7 @@
   {
     "number": "7",
     "building": "San Francisco Police Community Precinct",
-    "location": "",
+    "location": "Arnaldo Hwy, Brgy. San Francisco",
     "latitude": "14.31914879",
     "longtitude": "120.9142095",
     "ncsp year": "2015 (7th Edition)",
@@ -107,7 +107,7 @@
   {
     "number": "8",
     "building": "City Library",
-    "location": "",
+    "location": "General Trias St, General Trias, Cavite",
     "latitude": "14.38678196",
     "longtitude": "120.8803217",
     "ncsp year": "2001 (5th Edition)",
@@ -122,7 +122,7 @@
   {
     "number": "9",
     "building": "City Hall",
-    "location": "",
+    "location": "Juan Luna St, General Trias, Cavite",
     "latitude": "14.38614145",
     "longtitude": "120.8809824",
     "ncsp year": "2001 (5th Edition)",
@@ -136,8 +136,8 @@
   },
   {
     "number": "10",
-    "building": "General Trias Convention / Cultural Center",
-    "location": "",
+    "building": "General Trias Convention & Cultural Center",
+    "location": "NIA Road, General Trias, Cavite",
     "latitude": "14.38805342",
     "longtitude": "120.8769626",
     "ncsp year": "2001 (5th Edition)",

@@ -1,0 +1,18 @@
+@import url("variables.css");
+
+body {
+  & section {
+    & div {
+      & img {
+        height: auto !important;
+        max-width: 700px !important;
+        width: 100% !important;
+      }
+
+      & p.light-text {
+        font-size: 18px;
+        font-weight: 300;
+      }
+    }
+  }
+}

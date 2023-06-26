@@ -11,7 +11,12 @@ import Footer from "@/components/global/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import "@/public/css/navigation.css";
+import "@/public/css/landing.css";
 import "@/public/css/topnavigation.css";
+import "@/public/css/mission_vision.css";
+import "@/public/css/quality_focus.css";
+import "@/public/css/about_cvsu.css";
+import "@/public/css/infrastructures.css";
 import "@/public/css/footer.css";
 
 export default function App({

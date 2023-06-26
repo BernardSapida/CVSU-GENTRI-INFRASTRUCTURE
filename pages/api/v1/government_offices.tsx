@@ -7,11 +7,14 @@ export default async function handler(
 ) {
   try {
     const client = await clientPromise;
-    const db = client.db("Infrastructure");
+    const db = client.db("buildings");
 
-    const categories = await db.collection("category1").find({}).toArray();
+    const buildings = await db
+      .collection("government offices")
+      .find({})
+      .toArray();
 
-    res.json(categories);
+    res.json(buildings);
   } catch (e) {
     console.error(e);
   }

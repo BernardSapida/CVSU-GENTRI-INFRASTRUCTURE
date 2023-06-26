@@ -1,0 +1,11 @@
+@import url("variables.css");
+body section div.building-data img {
+  display: block;
+  width: 540px !important;
+}
+body section div.building-data table {
+  max-width: 540px;
+}
+body section div.building-data table tbody tr td.name {
+  font-weight: 500;
+}/*# sourceMappingURL=landing.css.map */

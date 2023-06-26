@@ -16,7 +16,6 @@ body header ul li {
 body header ul li a {
   text-decoration: none;
   color: var(--white);
-  font-family: "Roboto", Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 15px;
   transition: color 250ms ease-in-out;

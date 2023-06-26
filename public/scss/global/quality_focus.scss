@@ -1,0 +1,17 @@
+@import url("variables.css");
+
+body {
+  & section {
+    & h2.text-green {
+      color: var(--cvsu-green);
+      font-size: clamp(1.8rem, 5vw, 2.5rem);
+      font-size: 40px;
+      font-weight: 600;
+    }
+
+    & p.quality-policy {
+      font-size: clamp(1.2rem, 5vw, 1.8rem);
+      font-weight: 300;
+    }
+  }
+}

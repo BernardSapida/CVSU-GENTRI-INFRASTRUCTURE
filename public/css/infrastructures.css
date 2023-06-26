@@ -1,0 +1,27 @@
+@import url("variables.css");
+body section div.landing-left {
+  max-width: 600px;
+}
+body section div.landing-left p.text-green {
+  color: var(--cvsu-green);
+  font-weight: 500;
+  font-size: clamp(18px, 5vw, 24px);
+}
+body section div.landing-left h1.school .name {
+  font-weight: 600;
+  font-size: clamp(1.8rem, 5vw, 3rem);
+  color: rgb(59, 59, 59);
+}
+body section div.landing-left h1.school .branch {
+  font-weight: 600;
+  font-size: clamp(1.8rem, 5vw, 3rem);
+}
+body section div.landing-left p.text-label {
+  font-weight: 400;
+  color: var(--cvsu-green);
+  font-size: clamp(20px, 5vw, 28px);
+}
+body section div.layat-diwa img {
+  display: block;
+  width: 300px !important;
+}/*# sourceMappingURL=infrastructures.css.map */

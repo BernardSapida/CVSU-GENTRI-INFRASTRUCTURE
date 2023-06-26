@@ -1,14 +1,13 @@
 "use client";
 
-import { useRouter } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 
 export default function Navigation() {
   return (
-    <nav className="px-5 d-flex align-items-center shadow-sm">
+    <nav className="px-3 d-flex align-items-center shadow-sm">
       <ul className="me-auto m-0 p-0">
-        <a className="navbar-brand" href="#">
+        <Link className="navbar-brand" href="/">
           <Image
             src="/images/logo/cvsu_gentri.png"
             alt="Logo"
@@ -16,11 +15,11 @@ export default function Navigation() {
             height="30"
             priority={true}
           />
-        </a>
+        </Link>
       </ul>
       <ul className="m-0 p-0">
         <li>
-          <Link href="#">Infrastructures</Link>
+          <Link href="/infrastructures">Infrastructures</Link>
         </li>
       </ul>
     </nav>

@@ -1,0 +1,14 @@
+@import url("variables.css");
+body section div.card {
+  max-width: 500px;
+  width: 100%;
+  border: none;
+}
+body section div.card h2.text-green {
+  color: var(--cvsu-green);
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
+}
+body section div.card p.light-text {
+  font-size: 18px;
+  font-weight: 300;
+}/*# sourceMappingURL=mission_vision.css.map */

@@ -1,0 +1,20 @@
+@import url("variables.css");
+
+body {
+  & section {
+    & div.building-data {
+      & img {
+        display: block;
+        width: 540px !important;
+      }
+
+      & table {
+        max-width: 540px;
+
+        & tbody tr td.name {
+          font-weight: 500;
+        }
+      }
+    }
+  }
+}
