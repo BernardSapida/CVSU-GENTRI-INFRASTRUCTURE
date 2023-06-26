@@ -84,6 +84,8 @@ function Infrastructure({
   };
 
   console.log(barangayHalls);
+  console.log(educationalBuildings);
+  console.log(governmentOffices);
 
   return (
     <section>
