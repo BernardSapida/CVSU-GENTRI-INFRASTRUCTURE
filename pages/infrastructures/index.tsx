@@ -1,4 +1,4 @@
-import type { GetServerSideProps } from "next";
+import type { GetStaticProps } from "next";
 
 import dynamic from "next/dynamic";
 import axios from "axios";
@@ -21,7 +21,7 @@ type Building = {
   governmentOffices: Record<string, any>[];
 };
 
-export const getServerSideProps: GetServerSideProps<Building> = async () => {
+export const getStaticProps: GetStaticProps<Building> = async () => {
   try {
     const responseBarangayHalls = await axios.get(
       `${process.env.NEXT_SERVER_URL}/api/v1/barangay_halls`
@@ -82,10 +82,6 @@ function Infrastructure({
     const index = event.target.value;
     setBuildingNumber(index);
   };
-
-  console.log(barangayHalls);
-  console.log(educationalBuildings);
-  console.log(governmentOffices);
 
   return (
     <section>
