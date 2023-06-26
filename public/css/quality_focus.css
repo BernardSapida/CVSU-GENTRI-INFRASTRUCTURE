@@ -8,4 +8,7 @@ body section h2.text-green {
 body section p.quality-policy {
   font-size: clamp(1.2rem, 5vw, 1.8rem);
   font-weight: 300;
+}
+body section p.quality-policy span {
+  font-weight: 400;
 }/*# sourceMappingURL=quality_focus.css.map */

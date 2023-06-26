@@ -1,1 +1,1 @@
-{"version":3,"sources":["../scss/global/quality_focus.scss","quality_focus.css"],"names":[],"mappings":"AAAQ,4BAAA;AAIJ;EACE,wBAAA;EACA,qCAAA;EACA,eAAA;EACA,gBAAA;ACFN;ADKI;EACE,qCAAA;EACA,gBAAA;ACHN","file":"quality_focus.css"}
+{"version":3,"sources":["../scss/global/quality_focus.scss","quality_focus.css"],"names":[],"mappings":"AAAQ,4BAAA;AAIJ;EACE,wBAAA;EACA,qCAAA;EACA,eAAA;EACA,gBAAA;ACFN;ADKI;EACE,qCAAA;EACA,gBAAA;ACHN;ADKM;EACE,gBAAA;ACHR","file":"quality_focus.css"}
