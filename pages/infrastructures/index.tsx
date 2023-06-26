@@ -87,14 +87,13 @@ function Infrastructure({
     <section>
       <h1 className="text-center my-5">Buildings Informations</h1>
       <Row>
-        <Col sm={12} md={6}>
-          <FloatingLabel
-            label="Building Category"
-            className="mb-3"
-            onChange={(event: any) => setCategory(event.target.value)}
-          >
-            <Form.Select>
-              <option>Select category</option>
+        <Col sm={12} md={category != "" ? 6 : 12}>
+          <FloatingLabel label="Building Category" className="mb-3">
+            <Form.Select
+              value={category}
+              onChange={(event: any) => setCategory(event.target.value)}
+            >
+              <option value="">Select category</option>
               <option value="barangay halls">Barangay Halls</option>
               <option value="educational buildings">
                 Educational Buildings
@@ -103,18 +102,22 @@ function Infrastructure({
             </Form.Select>
           </FloatingLabel>
         </Col>
-        <Col sm={12} md={6}>
-          <FloatingLabel label="Building Name" onChange={setBuildingObject}>
-            <Form.Select value={buildingNumber}>
-              <option value={-1}>Choose a building</option>
-              {buildings.map((building: Record<string, any>, index: number) => (
-                <option key={index} value={index}>
-                  {building.building}
-                </option>
-              ))}
-            </Form.Select>
-          </FloatingLabel>
-        </Col>
+        {category && (
+          <Col sm={12} md={6}>
+            <FloatingLabel label="Building Name">
+              <Form.Select value={buildingNumber} onChange={setBuildingObject}>
+                <option value={-1}>Choose a building</option>
+                {buildings.map(
+                  (building: Record<string, any>, index: number) => (
+                    <option key={index} value={index}>
+                      {building.building}
+                    </option>
+                  )
+                )}
+              </Form.Select>
+            </FloatingLabel>
+          </Col>
+        )}
       </Row>
       {buildingNumber != -1 ? (
         <BuildingTable

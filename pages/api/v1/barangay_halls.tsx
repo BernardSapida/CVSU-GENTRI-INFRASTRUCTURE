@@ -10,7 +10,6 @@ export default async function handler(
     const db = client.db("buildings");
 
     const buildings = await db.collection("barangay halls").find({}).toArray();
-    console.log(buildings);
     res.json(buildings);
   } catch (e) {
     console.error(e);
