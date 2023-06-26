@@ -83,6 +83,8 @@ function Infrastructure({
     setBuildingNumber(index);
   };
 
+  console.log(barangayHalls);
+
   return (
     <section>
       <h1 className="text-center my-5">Buildings Informations</h1>
