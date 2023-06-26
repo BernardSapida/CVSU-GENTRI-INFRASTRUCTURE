@@ -36,10 +36,7 @@ export default function App({
           name="keywords"
           content="Infrastructures audit, cvsu general trias city campus"
         />
-        <meta
-          name="author"
-          content="Bernard Sapida, Shania Gwyneth Nuga, Ralph Howard Azarcon, Christian Arby Camama"
-        />
+        <meta name="author" content="Crystalyn Marquez" />
         <meta
           property="og:title"
           content="Cavite State University - General Trias City Campus"
