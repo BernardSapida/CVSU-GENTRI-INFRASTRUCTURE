@@ -9,10 +9,10 @@ export default function Navigation() {
       <ul className="me-auto m-0 p-0">
         <Link className="navbar-brand" href="/">
           <Image
-            src="/images/logo/cvsu_gentri.png"
+            src="/images/logo/banner-gentri.png"
             alt="Logo"
             width="200"
-            height="30"
+            height="50"
             priority={true}
           />
         </Link>
