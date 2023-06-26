@@ -12,7 +12,7 @@ export default function Building({
     <div className="d-flex gap-4 flex-wrap justify-content-center mt-4 mb-5 building-data">
       <Image
         src={`/images/${category}/${building["building"].toUpperCase()}.jpg`}
-        alt="Logo"
+        alt="Building Image"
         width="300"
         height="400"
         priority={true}
