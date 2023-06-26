@@ -6,12 +6,12 @@ export default function Landing() {
       <div className="my-4 landing-left">
         <p className="text-green">Welcome to</p>
         <h1 className="school my-4">
-          <span className="name">Cavite State University</span>
+          <span className="name">Infrastructure Audit of</span>
           <br />
-          <span className="branch">General Trias City Campus</span>
+          <span className="branch">In the City of General Trias, Cavite</span>
         </h1>
         <p className="text-label">
-          Formerly known as College of Business and Entrepreneurship
+          Formerly Malabon Trias, is known for their Valenciana dish
         </p>
       </div>
       <div className="d-block layat-diwa">

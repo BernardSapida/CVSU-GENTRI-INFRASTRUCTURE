@@ -1,6 +1,6 @@
 import QualityPolicy from "@/components/home/QualityPolicy";
 import MissionVision from "@/components/home/MisionVision";
-import AboutCvSU from "@/components/home/AboutCvSU";
+import AboutGentri from "@/components/home/AboutGentri";
 import Landing from "@/components/home/Landing";
 
 export default function Home() {
@@ -9,7 +9,7 @@ export default function Home() {
       <Landing />
       <MissionVision />
       <QualityPolicy />
-      <AboutCvSU />
+      <AboutGentri />
     </div>
   );
 }

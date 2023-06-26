@@ -1,0 +1,15 @@
+@import url("variables.css");
+body section h3 {
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
+  color: var(--cvsu-green);
+  font-weight: 600;
+}
+body section div img {
+  height: auto !important;
+  max-width: 400px !important;
+  width: 100% !important;
+}
+body section div p.light-text {
+  font-size: 18px;
+  font-weight: 300;
+}/*# sourceMappingURL=about_gentri.css.map */

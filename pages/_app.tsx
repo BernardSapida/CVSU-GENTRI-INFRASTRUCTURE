@@ -15,7 +15,7 @@ import "@/public/css/landing.css";
 import "@/public/css/topnavigation.css";
 import "@/public/css/mission_vision.css";
 import "@/public/css/quality_focus.css";
-import "@/public/css/about_cvsu.css";
+import "@/public/css/about_gentri.css";
 import "@/public/css/infrastructures.css";
 import "@/public/css/footer.css";
 

@@ -1,13 +1,14 @@
 import Image from "next/image";
 
-export default function AboutCvSU() {
+export default function AboutGentri() {
   return (
     <section className="my-5">
+      <h3 className="mb-4 text-center">About General Trias, Cavite</h3>
       <div className="d-block">
         <Image
-          src="/images/school/cvsu-gentri.jpg"
+          src="/images/city/gentri.jpg"
           alt="Logo"
-          width="700"
+          width="400"
           height="400"
           className="d-block mx-auto rounded"
         />
