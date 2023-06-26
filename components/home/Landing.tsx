@@ -17,7 +17,7 @@ export default function Landing() {
       <div className="d-block layat-diwa">
         <Image
           src="/images/school/layat-diwa.png"
-          alt="Logo"
+          alt="Laya't Diwa"
           width="300"
           height="400"
           priority={true}
