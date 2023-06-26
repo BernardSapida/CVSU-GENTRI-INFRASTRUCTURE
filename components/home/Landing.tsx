@@ -16,7 +16,7 @@ export default function Landing() {
       </div>
       <div className="d-block layat-diwa">
         <Image
-          src="/public/images/school/layat-diwa.png"
+          src="/images/city/layat-diwa.png"
           alt="Laya't Diwa"
           width="300"
           height="400"
