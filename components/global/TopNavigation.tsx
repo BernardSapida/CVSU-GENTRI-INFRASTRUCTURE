@@ -2,18 +2,15 @@
 
 import {
   BsFillTelephoneFill,
-  BsTwitter,
+  BsYoutube,
   BsFacebook,
   BsInstagram,
+  BsGlobe,
 } from "react-icons/bs";
 
-import { useRouter } from "next/navigation";
-import Image from "next/image";
 import Link from "next/link";
 
 export default function TopNavigation() {
-  const router = useRouter();
-
   return (
     <header className="d-flex justify-content-between">
       <ul>
@@ -26,13 +23,32 @@ export default function TopNavigation() {
       </ul>
       <ul>
         <li>
-          <Link href="#" className="mx-1 fs-6">
+          <Link
+            href="https://www.generaltrias.gov.ph/"
+            target="_blank"
+            className="mx-1 fs-6"
+          >
+            <BsGlobe />
+          </Link>
+          <Link
+            href="https://www.facebook.com/CvSUgeneraltrias2012"
+            target="_blank"
+            className="mx-1 fs-6"
+          >
             <BsFacebook />
           </Link>
-          <Link href="#" className="mx-1 fs-6">
-            <BsTwitter />
+          <Link
+            href="https://www.youtube.com/@cavitestateuniversitymainc7893"
+            target="_blank"
+            className="mx-1 fs-6"
+          >
+            <BsYoutube />
           </Link>
-          <Link href="#" className="mx-1 fs-6">
+          <Link
+            href="https://www.instagram.com/explore/locations/447983188575520/cavite-state-university-indang-cavite/"
+            target="_blank"
+            className="mx-1 fs-6"
+          >
             <BsInstagram />
           </Link>
         </li>

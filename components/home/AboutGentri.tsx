@@ -6,7 +6,7 @@ export default function AboutGentri() {
       <h3 className="mb-4 text-center">About General Trias, Cavite</h3>
       <div className="d-block">
         <Image
-          src="/images/city/gentri.jpg"
+          src="/public/images/city/gentri.jpg"
           alt="Logo"
           width="400"
           height="400"

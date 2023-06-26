@@ -12,7 +12,7 @@ body section div.landing-left h1.school .name {
   font-size: clamp(1.8rem, 5vw, 3rem);
   color: rgb(59, 59, 59);
 }
-body section div.landing-left h1.school .branch {
+body section div.landing-left h1.school .city {
   font-weight: 600;
   font-size: clamp(1.8rem, 5vw, 3rem);
 }
