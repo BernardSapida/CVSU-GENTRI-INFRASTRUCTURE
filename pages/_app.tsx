@@ -30,11 +30,11 @@ export default function App({
         <title>Cavite State University - General Trias City Campus</title>
         <meta
           name="description"
-          content="Indulge in the heavenly delight of freshly baked donuts at Sweet Rounds. Our wide range of flavors and handcrafted treats are sure to satisfy your sweet cravings. Visit us today and experience the joy of the perfect round."
+          content="General Trias, a city in Cavite, Philippines, is a progressive town where numerous government structures fulfill important community duties. These structures include executive offices, public service buildings, medical facilities, educational institutions, and others. For an assessment of the integrity, operation, and compliance of these buildings with set norms and regulations, it is important to conduct infrastructure audits. An infrastructure audit in the city of General Trias, Cavite, is an important procedure that evaluates the condition, safety, and efficiency of public facilities. We can identify defects that reflect the building's vulnerability to hazards like earthquakes, typhoons, floods, landslides, etc. by conducting site inspections and evaluating available documents. An infrastructure audit is a critical procedure that identifies the current condition of the building and its vulnerability to hazards."
         />
         <meta
           name="keywords"
-          content="donuts, sweet rounds, bakery, desserts, treats"
+          content="Infrastructures audit, cvsu general trias city campus"
         />
         <meta
           name="author"
