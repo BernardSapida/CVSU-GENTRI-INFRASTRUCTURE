@@ -80,9 +80,7 @@ export default function Building({
           </tbody>
         </Table>
       </div>
-      <p className="text-center fs-3 fw-bold">
-        <FaHouseDamage className="mb-1" /> Building Defects
-      </p>
+      <p className="text-center fs-3 fw-bold">Building Defects</p>
       <div className="d-flex gap-3 flex-wrap justify-content-center">
         {building.defects.length > 0 ? (
           building.defects.map((defect: any, index: number) => (
