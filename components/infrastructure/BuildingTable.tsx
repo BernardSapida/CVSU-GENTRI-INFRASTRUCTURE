@@ -1,8 +1,6 @@
 import Image from "next/image";
 import Table from "react-bootstrap/Table";
 
-import { FaHouseDamage } from "react-icons/Fa";
-
 export default function Building({
   category,
   building,
