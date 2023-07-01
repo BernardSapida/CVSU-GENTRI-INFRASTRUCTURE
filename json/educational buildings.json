@@ -14,8 +14,12 @@
     "type of building": "Concrete Frame",
     "type of structure": "Cast-in-Place",
     "design occupancy": "School",
-    "condition info": "",
-    "hazard info": "",
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of localized defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
+    ],
+    "hazard info": ["Within Flood-Prone Area", "Within Typhoon-Prone Area"],
     "defects": [
       {
         "image": "defect-1.jpg",
