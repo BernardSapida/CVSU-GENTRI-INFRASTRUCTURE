@@ -69,11 +69,23 @@ export default function Building({
             </tr>
             <tr>
               <td className="ps-5 name">Condition Information</td>
-              <td>{building["condition info"] || "None"}</td>
+              <td>
+                {building["condition info"].length == 0
+                  ? "None"
+                  : building["condition info"].map(
+                      (info: any, index: number) => <p>{info}</p>
+                    )}
+              </td>
             </tr>
             <tr>
               <td className="ps-5 name">Hazard Information</td>
-              <td>{building["hazard info"] || "None"}</td>
+              <td>
+                {building["hazard info"].length == 0
+                  ? "None"
+                  : building["hazard info"].map((info: any, index: number) => (
+                      <p>{info}</p>
+                    ))}
+              </td>
             </tr>
           </tbody>
         </Table>
