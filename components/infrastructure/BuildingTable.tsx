@@ -87,6 +87,10 @@ export default function Building({
                     ))}
               </td>
             </tr>
+            <tr>
+              <td className="ps-5 name">RVS Score</td>
+              <td>{building["rvs score"] || "None"}</td>
+            </tr>
           </tbody>
         </Table>
       </div>
