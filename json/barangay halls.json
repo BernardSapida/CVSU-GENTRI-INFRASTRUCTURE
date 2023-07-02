@@ -22,7 +22,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and landslide",
     "defects": [],
-    "image": "alingaro-barangay-hall-new"
+    "image": "alingaro-barangay-hall-new",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -47,7 +48,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "alingaro-barangay-hall-old"
+    "image": "alingaro-barangay-hall-old",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -71,8 +73,18 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
-    "image": "arnaldo-barangay-hall"
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on wall"
+      }
+    ],
+    "image": "arnaldo-barangay-hall",
+    "risk mitigation actions": [
+      "Install safety signs and labels in the building to warn occupants of hazards and safe behaviors",
+      "Repaint exterior walls behind the building to give aesthetic appeal",
+      "Ensure proper maintenance of the building's electrical, plumbing, and heating/cooling systems to prevent accidents and system failures"
+    ]
   },
   {
     "_id": {
@@ -97,7 +109,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "bacao-i-multi-purpose_hall"
+    "image": "bacao-i-multi-purpose_hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -122,7 +135,11 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "bacao-i-barangay-hall"
+    "image": "bacao-i-barangay-hall",
+    "risk mitigation actions": [
+      "Install safety signs and labels in the building to warn occupants of hazards and safe behaviors",
+      "Ensure proper maintenance of the building's electrical, plumbing, and heating/cooling systems to prevent accidents and system failures"
+    ]
   },
   {
     "_id": {
@@ -147,7 +164,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "bacao-ii-barangay-hall-and-evacuation-center"
+    "image": "bacao-ii-barangay-hall-and-evacuation-center",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -172,7 +190,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "bagumbayan-barangay-hall"
+    "image": "bagumbayan-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -197,7 +216,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "biclatan-barangay-hall"
+    "image": "biclatan-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -222,7 +242,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "biclatan-multi-purpose-hall"
+    "image": "biclatan-multi-purpose-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -247,7 +268,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-i-barangay-hall"
+    "image": "buenavista-i-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -272,7 +294,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-ii-barangay-hall"
+    "image": "buenavista-ii-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -297,7 +320,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-iii-barangay-hall"
+    "image": "buenavista-iii-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -322,7 +346,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "corregidor-barangay-hall"
+    "image": "corregidor-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -364,7 +389,8 @@
         "descriptions": "Warping of Ceiling due to Broken Pipeline"
       }
     ],
-    "image": "dulong-bayan-barangay-hall"
+    "image": "dulong-bayan-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -389,7 +415,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "governor-ferrer-barangay-hall"
+    "image": "governor-ferrer-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -414,7 +441,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "javalera-barangay-hall"
+    "image": "javalera-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -439,7 +467,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "manggahan-barangay-hall"
+    "image": "manggahan-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -464,7 +493,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "manggahan-multi-purpose-hall"
+    "image": "manggahan-multi-purpose-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -489,7 +519,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "navarro-barangay-hall"
+    "image": "navarro-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -514,7 +545,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "panungyanan-barangay-hall"
+    "image": "panungyanan-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -539,7 +571,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "pascam-i-barangay-hall"
+    "image": "pascam-i-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -564,7 +597,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "pascam-ii-barangay-hall"
+    "image": "pascam-ii-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -589,7 +623,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "pasong-kawayan-i-barangay-hall"
+    "image": "pasong-kawayan-i-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -614,7 +649,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "pasong-kawayan-ii-barangay-hall"
+    "image": "pasong-kawayan-ii-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -639,7 +675,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "pinagtipunan-barangay-hall"
+    "image": "pinagtipunan-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -664,7 +701,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "prinza-barangay-hall"
+    "image": "prinza-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -689,7 +727,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "sampalucan-barangay-hall"
+    "image": "sampalucan-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -714,7 +753,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "santiago-barangay-hall"
+    "image": "santiago-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -739,7 +779,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "santiago-multi-purpose-hall"
+    "image": "santiago-multi-purpose-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -764,7 +805,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "san-francisco-barangay-hall"
+    "image": "san-francisco-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -789,7 +831,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "san-gabriel-barangay-hall"
+    "image": "san-gabriel-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -814,7 +857,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "san-juan-i-barangay-hall"
+    "image": "san-juan-i-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -839,7 +883,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "san-juan-i-tanod-office"
+    "image": "san-juan-i-tanod-office",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -864,7 +909,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "san-juan-ii-barangay-hall"
+    "image": "san-juan-ii-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -889,7 +935,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "santa-clara-barangay-hall"
+    "image": "santa-clara-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -914,7 +961,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "santa-clara-multi-purpose-hall"
+    "image": "santa-clara-multi-purpose-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -939,7 +987,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "tapia-barangay-hall"
+    "image": "tapia-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -964,7 +1013,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "tapia-multi-purpose-hall"
+    "image": "tapia-multi-purpose-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -989,7 +1039,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "tejero-barangay-hall"
+    "image": "tejero-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -1014,7 +1065,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "vibora-barangay-hall"
+    "image": "vibora-barangay-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -1039,6 +1091,7 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "1896-barangay-hall"
+    "image": "1896-barangay-hall",
+    "risk mitigation actions": []
   }
 ]

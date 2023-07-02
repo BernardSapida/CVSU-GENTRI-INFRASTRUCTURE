@@ -84,6 +84,16 @@ export default function Building({
               <td className="ps-5 name">RVS Score</td>
               <td>{building["rvs score"] || "None"}</td>
             </tr>
+            <tr>
+              <td className="ps-5 name">Hazard/Risk Mitigation Actions</td>
+              <td>
+                {building["risk mitigation actions"].length == 0
+                  ? "None"
+                  : building["risk mitigation actions"].map(
+                      (info: any, index: number) => <p>{info}</p>
+                    )}
+              </td>
+            </tr>
           </tbody>
         </Table>
       </div>

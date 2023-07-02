@@ -22,7 +22,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "compac-community-police-precinct-manggahan"
+    "image": "compac-community-police-precinct-manggahan",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -47,7 +48,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "city-health-center"
+    "image": "city-health-center",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -72,7 +74,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "manpower-development-center"
+    "image": "manpower-development-center",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -97,7 +100,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "bureau-of-fire-protection-main-building"
+    "image": "bureau-of-fire-protection-main-building",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -122,7 +126,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "bureau-of-fire-protection-parking-area"
+    "image": "bureau-of-fire-protection-parking-area",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -147,7 +152,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "city-disaster-risk-reduction-and-management-council"
+    "image": "city-disaster-risk-reduction-and-management-council",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -172,7 +178,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "san-francisco-police-community-precinct"
+    "image": "san-francisco-police-community-precinct",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -197,7 +204,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "city-library"
+    "image": "city-library",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -222,7 +230,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "city-hall"
+    "image": "city-hall",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -247,7 +256,8 @@
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": [],
-    "image": "general-trias-convention-and-cultural-center"
+    "image": "general-trias-convention-and-cultural-center",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -271,7 +281,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
-    "image": "general-trias-senior-citizen-center"
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on window opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on window opening"
+      }
+    ],
+    "image": "general-trias-senior-citizen-center",
+    "risk mitigation actions": [
+      "Install safety signs and labels in the building to warn occupants of hazards and safe behaviors",
+      "Ensure proper maintenance of the building's electrical, plumbing, and heating/cooling systems to prevent accidents and system failures"
+    ]
   }
 ]

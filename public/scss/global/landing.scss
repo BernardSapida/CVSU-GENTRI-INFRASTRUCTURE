@@ -5,7 +5,8 @@ body {
     & div.building-data {
       & img {
         display: block;
-        width: 540px !important;
+        width: 100% !important;
+        height: 100% !important;
       }
 
       & table {

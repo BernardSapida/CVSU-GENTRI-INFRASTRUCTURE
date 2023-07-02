@@ -39,7 +39,8 @@
         "descriptions": "Water Stains due to Leakages"
       }
     ],
-    "image": "cavite-state-university-general-trias-campus"
+    "image": "cavite-state-university-general-trias-campus",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -64,7 +65,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-1"
+    "image": "ggsames-1",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -89,7 +91,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-3"
+    "image": "ggsames-3",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -114,7 +117,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-4"
+    "image": "ggsames-4",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -139,7 +143,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-7"
+    "image": "ggsames-7",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -164,7 +169,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-14"
+    "image": "ggsames-14",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -189,7 +195,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-15"
+    "image": "ggsames-15",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -214,7 +221,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-16"
+    "image": "ggsames-16",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -239,7 +247,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-17"
+    "image": "ggsames-17",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -264,7 +273,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "ggsames-20"
+    "image": "ggsames-20",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -282,14 +292,16 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "School",
     "rvs score": "2.3 (Safe)",
-    "condition info": [
-      "Structural Defects: Presence of some severe defects",
-      "Non-structural Defects: Presence of interrelated defects",
-      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
-    ],
+    "condition info": [],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "manggahan-elementary-school-1"
+    "image": "manggahan-elementary-school-1",
+    "risk mitigation actions": [
+      "Ensure proper maintenance of the building's electrical, plumbing, and heating/cooling systems to prevent accidents and system failures",
+      "Install pumps or water to provide water supply on higher floor levels",
+      "Consult with a structural engineer to check on spalling of structure elements, design elements or conduct repairs",
+      "Apply appropriate repair materials, such as epoxy-based or polymer-modified cementitious repair mortars, to restore the surface and prevent further spallin"
+    ]
   },
   {
     "_id": {
@@ -314,7 +326,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "manggahan-elementary-school-3"
+    "image": "manggahan-elementary-school-3",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -339,7 +352,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "manggahan-elementary-school-10"
+    "image": "manggahan-elementary-school-10",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -364,7 +378,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "manggahan-elementary-school-13"
+    "image": "manggahan-elementary-school-13",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -388,8 +403,38 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
-    "image": "manggahan-elementary-school-14"
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack and discoloration of ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Missing doorknob"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of fire alarms"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Rusty Handrails"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Spalling on slab (ceiling)"
+      }
+    ],
+    "image": "manggahan-elementary-school-14",
+    "risk mitigation actions": [
+      "Structural Defects: Presence of some severe defects",
+      "Non-structural Defects: Presence of interrelated defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
+    ]
   },
   {
     "_id": {
@@ -414,7 +459,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-elementary-school-1"
+    "image": "buenavista-elementary-school-1",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -439,7 +485,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-elementary-school-3"
+    "image": "buenavista-elementary-school-3",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -464,7 +511,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-elementary-school-11"
+    "image": "buenavista-elementary-school-11",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -489,7 +537,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-elementary-school-12"
+    "image": "buenavista-elementary-school-12",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -514,7 +563,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-elementary-school-13"
+    "image": "buenavista-elementary-school-13",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -539,7 +589,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "buenavista-elementary-school-14"
+    "image": "buenavista-elementary-school-14",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -564,7 +615,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "aannh-2"
+    "image": "aannh-2",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -589,7 +641,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "aannh-3"
+    "image": "aannh-3",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -614,7 +667,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "aannh-6"
+    "image": "aannh-6",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -639,7 +693,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "aannh-7"
+    "image": "aannh-7",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -664,7 +719,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "lyfjsh-pagcor-building"
+    "image": "lyfjsh-pagcor-building",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -689,7 +745,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "lyfjsh-deped-standard-school-building"
+    "image": "lyfjsh-deped-standard-school-building",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -714,7 +771,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "lyfjsh-lgu-type-building"
+    "image": "lyfjsh-lgu-type-building",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -739,7 +797,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "lyfjsh-new-building"
+    "image": "lyfjsh-new-building",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -764,7 +823,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "san-francisco-elementary-school-2"
+    "image": "san-francisco-elementary-school-2",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -789,7 +849,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "glafjenhs"
+    "image": "glafjenhs",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -814,7 +875,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "sunny-brooke-lementary-school-2"
+    "image": "sunny-brooke-lementary-school-2",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -838,8 +900,21 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
-    "image": "sunny-brooke-lementary-school-4"
+    "defects": [
+      "Broken electrical light switch",
+      "Cracks on Interior Beam",
+      "Missing gutter pipe",
+      "Spalling on slab (ceiling)",
+      "Spalling on slab (ceiling)",
+      "Spalling on slab (flooring)"
+    ],
+    "image": "sunny-brooke-lementary-school-4",
+    "risk mitigation actions": [
+      "Ensure proper maintenance of the building's electrical, plumbing, and heating/cooling systems to prevent accidents and system failures",
+      "Install pumps or water to provide water supply on higher floor levels",
+      "Consult with a structural engineer to check on spalling of structure elements, design elements or conduct repairs",
+      "Apply appropriate repair materials, such as epoxy-based or polymer-modified cementitious repair mortars, to restore the surface and prevent further spalling"
+    ]
   },
   {
     "_id": {
@@ -864,7 +939,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "tropical-village-elementary-school-4"
+    "image": "tropical-village-elementary-school-4",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -889,7 +965,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "tropical-village-national-high-school-mgzb"
+    "image": "tropical-village-national-high-school-mgzb",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -914,7 +991,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "tropical-village-national-high-school-dssb"
+    "image": "tropical-village-national-high-school-dssb",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -939,7 +1017,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "caritas-bukid-kabataan-elementary-school-1"
+    "image": "caritas-bukid-kabataan-elementary-school-1",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -964,7 +1043,8 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
-    "image": "caritas-bukid-kabataan-elementary-school-2"
+    "image": "caritas-bukid-kabataan-elementary-school-2",
+    "risk mitigation actions": []
   },
   {
     "_id": {
@@ -988,7 +1068,17 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
-    "image": "caritas-bukid-kabataan-elementary-school-3"
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Door Frame"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Damaged Door Frame"
+      }
+    ],
+    "image": "caritas-bukid-kabataan-elementary-school-3",
+    "risk mitigation actions": []
   }
 ]
