@@ -13,7 +13,7 @@ export default function Building({
       <div className="d-flex gap-4 flex-wrap justify-content-center mt-4 mb-5 building-data">
         <Image
           src={`/images/${category}/${building["building"].toUpperCase()}.jpg`}
-          alt="Building Image"
+          alt={`Photo of ${building["building"]}`}
           width="300"
           height="400"
           priority={true}
@@ -28,12 +28,7 @@ export default function Building({
             </tr>
             <tr>
               <td className="ps-5 name">Building Name</td>
-              <td>
-                {building["building"] || "None"} ||{" "}
-                {`/images/${category}/${building[
-                  "building"
-                ].toUpperCase()}.jpg`}
-              </td>
+              <td>{building["building"] || "None"}</td>
             </tr>
             <tr>
               <td className="ps-5 name">Location</td>
