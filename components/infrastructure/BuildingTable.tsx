@@ -79,13 +79,7 @@ export default function Building({
             </tr>
             <tr>
               <td className="ps-5 name">Hazard Information</td>
-              <td>
-                {building["hazard info"].length == 0
-                  ? "None"
-                  : building["hazard info"].map((info: any, index: number) => (
-                      <p>{info}</p>
-                    ))}
-              </td>
+              <td>{building["hazard info"] || "None"}</td>
             </tr>
             <tr>
               <td className="ps-5 name">RVS Score</td>

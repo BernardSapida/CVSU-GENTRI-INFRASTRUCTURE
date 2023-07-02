@@ -6,7 +6,9 @@ export default function Landing() {
       <div className="my-4 landing-left">
         <p className="text-green">Welcome to</p>
         <h1 className="school my-4">
-          <span className="name">Infrastructure Audit of</span>
+          <span className="name">
+            Infrastructure Audit of Government Buildings
+          </span>
           <br />
           <span className="city">In the City of General Trias, Cavite</span>
         </h1>

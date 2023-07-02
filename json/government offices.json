@@ -15,8 +15,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Emergency",
     "rvs score": "1.5 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
+    ],
+    "hazard info": "Prone to: earthquake, and typhoon",
     "defects": []
   },
   {
@@ -35,8 +39,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Health Center",
     "rvs score": "1.5 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
+    ],
+    "hazard info": "Prone to: earthquake, and typhoon",
     "defects": []
   },
   {
@@ -55,8 +63,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Office",
     "rvs score": "2.3 (Safe)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
+    ],
+    "hazard info": "Prone to: earthquake, and typhoon",
     "defects": []
   },
   {
@@ -75,8 +87,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Emergency",
     "rvs score": "1.9 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of some severe defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
+    ],
+    "hazard info": "Prone to: earthquake, and typhoon",
     "defects": []
   },
   {
@@ -95,8 +111,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Emergency",
     "rvs score": "1.9 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
+    ],
+    "hazard info": "Prone to: earthquake, and typhoon",
     "defects": []
   },
   {
@@ -115,8 +135,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Emergency",
     "rvs score": "1.9 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of some severe defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
+    ],
+    "hazard info": "Prone to: earthquake, and typhoon",
     "defects": []
   },
   {
@@ -135,8 +159,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Emergency, Institutional",
     "rvs score": "1.9 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
+    ],
+    "hazard info": "Prone to: earthquake, and typhoon",
     "defects": []
   },
   {
@@ -155,8 +183,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Office",
     "rvs score": "1.2 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
+    ],
+    "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": []
   },
   {
@@ -175,8 +207,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Office",
     "rvs score": "1.9 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
+    ],
+    "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": []
   },
   {
@@ -195,8 +231,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Public Assembly",
     "rvs score": "1.5 (Vulnerable)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: Presence of minor defects",
+      "Non-structural Defects: Presence of minor defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
+    ],
+    "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": []
   },
   {
@@ -215,8 +255,12 @@
     "type of structure": "Cast-in-Place",
     "design occupancy": "Office, Public Assembly",
     "rvs score": "2.3 (Safe)",
-    "condition info": [],
-    "hazard info": [],
+    "condition info": [
+      "Structural Defects: No adverse defects",
+      "Non-structural Defects: No adverse defects",
+      "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
+    ],
+    "hazard info": "Prone to: earthquake, typhoon, and flooding",
     "defects": []
   }
 ]
