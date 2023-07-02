@@ -21,7 +21,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and landslide",
-    "defects": []
+    "defects": [],
+    "image": "alingaro-barangay-hall-new"
   },
   {
     "_id": {
@@ -45,7 +46,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of interrelated defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "alingaro-barangay-hall-old"
   },
   {
     "_id": {
@@ -69,7 +71,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "arnaldo-barangay-hall"
   },
   {
     "_id": {
@@ -93,7 +96,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "bacao-i-multi-purpose_hall"
   },
   {
     "_id": {
@@ -117,7 +121,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "bacao-i-barangay-hall"
   },
   {
     "_id": {
@@ -141,7 +146,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "bacao-ii-barangay-hall-and-evacuation-center"
   },
   {
     "_id": {
@@ -165,7 +171,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "bagumbayan-barangay-hall"
   },
   {
     "_id": {
@@ -189,7 +196,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "biclatan-barangay-hall"
   },
   {
     "_id": {
@@ -213,7 +221,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "biclatan-multi-purpose-hall"
   },
   {
     "_id": {
@@ -237,7 +246,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "buenavista-i-barangay-hall"
   },
   {
     "_id": {
@@ -261,7 +271,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "buenavista-ii-barangay-hall"
   },
   {
     "_id": {
@@ -285,7 +296,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "buenavista-iii-barangay-hall"
   },
   {
     "_id": {
@@ -309,7 +321,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "corregidor-barangay-hall"
   },
   {
     "_id": {
@@ -350,7 +363,8 @@
         "image": "defect-4.jpg",
         "descriptions": "Warping of Ceiling due to Broken Pipeline"
       }
-    ]
+    ],
+    "image": "dulong-bayan-barangay-hall"
   },
   {
     "_id": {
@@ -374,7 +388,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "governor-ferrer-barangay-hall"
   },
   {
     "_id": {
@@ -398,7 +413,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "javalera-barangay-hall"
   },
   {
     "_id": {
@@ -422,7 +438,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "manggahan-barangay-hall"
   },
   {
     "_id": {
@@ -446,7 +463,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "manggahan-multi-purpose-hall"
   },
   {
     "_id": {
@@ -470,7 +488,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "navarro-barangay-hall"
   },
   {
     "_id": {
@@ -494,7 +513,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "panungyanan-barangay-hall"
   },
   {
     "_id": {
@@ -518,7 +538,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "pascam-i-barangay-hall"
   },
   {
     "_id": {
@@ -542,7 +563,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "pascam-ii-barangay-hall"
   },
   {
     "_id": {
@@ -566,7 +588,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "pasong-kawayan-i-barangay-hall"
   },
   {
     "_id": {
@@ -590,7 +613,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "pasong-kawayan-ii-barangay-hall"
   },
   {
     "_id": {
@@ -614,7 +638,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "pinagtipunan-barangay-hall"
   },
   {
     "_id": {
@@ -638,7 +663,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "prinza-barangay-hall"
   },
   {
     "_id": {
@@ -662,7 +688,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of interrelated defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "sampalucan-barangay-hall"
   },
   {
     "_id": {
@@ -686,7 +713,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "santiago-barangay-hall"
   },
   {
     "_id": {
@@ -710,7 +738,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "santiago-multi-purpose-hall"
   },
   {
     "_id": {
@@ -734,7 +763,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "san-francisco-barangay-hall"
   },
   {
     "_id": {
@@ -758,7 +788,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "san-gabriel-barangay-hall"
   },
   {
     "_id": {
@@ -782,7 +813,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "san-juan-i-barangay-hall"
   },
   {
     "_id": {
@@ -806,7 +838,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "san-juan-i-tanod-office"
   },
   {
     "_id": {
@@ -830,7 +863,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "san-juan-ii-barangay-hall"
   },
   {
     "_id": {
@@ -854,7 +888,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "santa-clara-barangay-hall"
   },
   {
     "_id": {
@@ -878,7 +913,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "santa-clara-multi-purpose-hall"
   },
   {
     "_id": {
@@ -902,7 +938,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "tapia-barangay-hall"
   },
   {
     "_id": {
@@ -926,7 +963,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": []
+    "defects": [],
+    "image": "tapia-multi-purpose-hall"
   },
   {
     "_id": {
@@ -950,7 +988,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "tejero-barangay-hall"
   },
   {
     "_id": {
@@ -974,7 +1013,8 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "vibora-barangay-hall"
   },
   {
     "_id": {
@@ -998,6 +1038,7 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": []
+    "defects": [],
+    "image": "1896-barangay-hall"
   }
 ]
