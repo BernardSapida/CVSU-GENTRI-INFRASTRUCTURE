@@ -4,7 +4,7 @@
       "$oid": "649913c48dd3af6a7147b109"
     },
     "number": "1",
-    "building": "Cavite State University – General Trias Campus",
+    "building": "Cavite State University - General Trias Campus",
     "location": "007 Arnaldo Hwy, General Trias, Cavite",
     "latitude": "14.38499888",
     "longtitude": "120.880463",
@@ -45,7 +45,7 @@
       "$oid": "649913c48dd3af6a7147b10a"
     },
     "number": "2",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 1",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 1",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -69,7 +69,7 @@
       "$oid": "649913c48dd3af6a7147b10b"
     },
     "number": "3",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 3",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 3",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -93,7 +93,7 @@
       "$oid": "649913c48dd3af6a7147b10c"
     },
     "number": "4",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 4",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 4",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -117,7 +117,7 @@
       "$oid": "649913c48dd3af6a7147b10d"
     },
     "number": "5",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 7",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 7",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -141,7 +141,7 @@
       "$oid": "649913c48dd3af6a7147b10e"
     },
     "number": "6",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 14",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 14",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -165,7 +165,7 @@
       "$oid": "649913c48dd3af6a7147b10f"
     },
     "number": "7",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 15",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 15",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -189,7 +189,7 @@
       "$oid": "649913c48dd3af6a7147b110"
     },
     "number": "8",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 16",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 16",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -213,7 +213,7 @@
       "$oid": "649913c48dd3af6a7147b111"
     },
     "number": "9",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 17",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 17",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -237,7 +237,7 @@
       "$oid": "649913c48dd3af6a7147b112"
     },
     "number": "10",
-    "building": "Gen. Gregorio S. Alona Memorial Elementary School: Building No. 20",
+    "building": "Gen. Gregorio S. Alona Memorial Elementary School - Building No. 20",
     "location": "Crisanto M. De Los Reyes Ave, Brgy. Biclatan",
     "latitude": "14.384326",
     "longtitude": "120.881103",
@@ -261,7 +261,7 @@
       "$oid": "649913c48dd3af6a7147b113"
     },
     "number": "11",
-    "building": "Manggahan Elementary School: Building No. 1",
+    "building": "Manggahan Elementary School - Building No. 1",
     "location": "Diamond St, Sunshine Village, Brgy. Manggahan",
     "latitude": "14.29691",
     "longtitude": "120.91191",
@@ -285,7 +285,7 @@
       "$oid": "649913c48dd3af6a7147b114"
     },
     "number": "12",
-    "building": "Manggahan Elementary School: Building No. 3",
+    "building": "Manggahan Elementary School - Building No. 3",
     "location": "Diamond St, Sunshine Village, Brgy. Manggahan",
     "latitude": "14.29691",
     "longtitude": "120.91191",
@@ -309,7 +309,7 @@
       "$oid": "649913c48dd3af6a7147b115"
     },
     "number": "13",
-    "building": "Manggahan Elementary School: Building No. 10",
+    "building": "Manggahan Elementary School - Building No. 10",
     "location": "Diamond St, Sunshine Village, Brgy. Manggahan",
     "latitude": "14.29691",
     "longtitude": "120.91191",
@@ -333,7 +333,7 @@
       "$oid": "649913c48dd3af6a7147b116"
     },
     "number": "14",
-    "building": "Manggahan Elementary School: Building No. 13",
+    "building": "Manggahan Elementary School - Building No. 13",
     "location": "Diamond St, Sunshine Village, Brgy. Manggahan",
     "latitude": "14.29691",
     "longtitude": "120.91191",
@@ -357,7 +357,7 @@
       "$oid": "649913c48dd3af6a7147b117"
     },
     "number": "15",
-    "building": "Manggahan Elementary School: Building No. 14",
+    "building": "Manggahan Elementary School - Building No. 14",
     "location": "Diamond St, Sunshine Village, Brgy. Manggahan",
     "latitude": "14.29691",
     "longtitude": "120.91191",
@@ -381,7 +381,7 @@
       "$oid": "649913c48dd3af6a7147b118"
     },
     "number": "16",
-    "building": "Buenavista Elementary School: Building No. 1",
+    "building": "Buenavista Elementary School - Building No. 1",
     "location": "Karangalan St, Brgy. Buenavista III",
     "latitude": "14.30668857",
     "longtitude": "120.9023369",
@@ -405,7 +405,7 @@
       "$oid": "649913c48dd3af6a7147b119"
     },
     "number": "17",
-    "building": "Buenavista Elementary School: Building No. 3",
+    "building": "Buenavista Elementary School - Building No. 3",
     "location": "Karangalan St, Brgy. Buenavista III",
     "latitude": "14.30668857",
     "longtitude": "120.9023369",
@@ -429,7 +429,7 @@
       "$oid": "649913c48dd3af6a7147b11a"
     },
     "number": "18",
-    "building": "Buenavista Elementary School: Building No. 11",
+    "building": "Buenavista Elementary School - Building No. 11",
     "location": "Karangalan St, Brgy. Buenavista III",
     "latitude": "14.30668857",
     "longtitude": "120.9023369",
@@ -453,7 +453,7 @@
       "$oid": "649913c48dd3af6a7147b11b"
     },
     "number": "19",
-    "building": "Buenavista Elementary School: Building No. 12",
+    "building": "Buenavista Elementary School - Building No. 12",
     "location": "Karangalan St, Brgy. Buenavista III",
     "latitude": "14.30668857",
     "longtitude": "120.9023369",
@@ -477,7 +477,7 @@
       "$oid": "649913c48dd3af6a7147b11c"
     },
     "number": "20",
-    "building": "Buenavista Elementary School: Building No. 13",
+    "building": "Buenavista Elementary School - Building No. 13",
     "location": "Karangalan St, Brgy. Buenavista III",
     "latitude": "14.30668857",
     "longtitude": "120.9023369",
@@ -501,7 +501,7 @@
       "$oid": "649913c48dd3af6a7147b11d"
     },
     "number": "21",
-    "building": "Buenavista Elementary School: Building No. 14",
+    "building": "Buenavista Elementary School - Building No. 14",
     "location": "Karangalan St, Brgy. Buenavista III",
     "latitude": "14.30668857",
     "longtitude": "120.9023369",
@@ -525,7 +525,7 @@
       "$oid": "649913c48dd3af6a7147b11e"
     },
     "number": "22",
-    "building": "Andres A. Nocon National Highschool: Building No. 2",
+    "building": "Andres A. Nocon National Highschool - Building No. 2",
     "location": "Caballero St, Brgy. Buenavista III",
     "latitude": "14.3053532",
     "longtitude": "120.897606",
@@ -549,7 +549,7 @@
       "$oid": "649913c48dd3af6a7147b11f"
     },
     "number": "23",
-    "building": "Andres A. Nocon National Highschool: Building No. 3",
+    "building": "Andres A. Nocon National Highschool - Building No. 3",
     "location": "Caballero St, Brgy. Buenavista III",
     "latitude": "14.3053532",
     "longtitude": "120.897606",
@@ -573,7 +573,7 @@
       "$oid": "649913c48dd3af6a7147b120"
     },
     "number": "24",
-    "building": "Andres A. Nocon National Highschool: Building No. 6",
+    "building": "Andres A. Nocon National Highschool - Building No. 6",
     "location": "Caballero St, Brgy. Buenavista III",
     "latitude": "14.3053532",
     "longtitude": "120.897606",
@@ -597,7 +597,7 @@
       "$oid": "649913c48dd3af6a7147b121"
     },
     "number": "25",
-    "building": "Andres A. Nocon National Highschool: Building No. 7",
+    "building": "Andres A. Nocon National Highschool - Building No. 7",
     "location": "Caballero St, Brgy. Buenavista III",
     "latitude": "14.3053532",
     "longtitude": "120.897606",
@@ -621,7 +621,7 @@
       "$oid": "649913c48dd3af6a7147b122"
     },
     "number": "26",
-    "building": "Luis Y. Ferrer Jr. Senior Highschool: PAGCOR Building",
+    "building": "Luis Y. Ferrer Jr. Senior Highschool - PAGCOR Building",
     "location": "Gov Ferrer Dr, Brgy. Pasong Kawayan II",
     "latitude": "14.33875981",
     "longtitude": "120.8822951",
@@ -645,7 +645,7 @@
       "$oid": "649913c48dd3af6a7147b123"
     },
     "number": "27",
-    "building": "Luis Y. Ferrer Jr. Senior Highschool: DepEd Standard School Building",
+    "building": "Luis Y. Ferrer Jr. Senior Highschool - DepEd Standard School Building",
     "location": "Gov Ferrer Dr, Brgy. Pasong Kawayan II",
     "latitude": "14.33875981",
     "longtitude": "120.8822951",
@@ -669,7 +669,7 @@
       "$oid": "649913c48dd3af6a7147b124"
     },
     "number": "28",
-    "building": "Luis Y. Ferrer Jr. Senior Highschool: LGU Type Building",
+    "building": "Luis Y. Ferrer Jr. Senior Highschool - LGU Type Building",
     "location": "Gov Ferrer Dr, Brgy. Pasong Kawayan II",
     "latitude": "14.33875981",
     "longtitude": "120.8822951",
@@ -693,7 +693,7 @@
       "$oid": "649913c48dd3af6a7147b125"
     },
     "number": "29",
-    "building": "Luis Y. Ferrer Jr. Senior Highschool: New Building",
+    "building": "Luis Y. Ferrer Jr. Senior Highschool - New Building",
     "location": "Gov Ferrer Dr, Brgy. Pasong Kawayan II",
     "latitude": "14.33875981",
     "longtitude": "120.8822951",
@@ -717,7 +717,7 @@
       "$oid": "649913c48dd3af6a7147b126"
     },
     "number": "30",
-    "building": "San Francisco Elementary School: Building No. 2",
+    "building": "San Francisco Elementary School - Building No. 2",
     "location": "11 Kiko Rosa - Parklane Access Rd, General Trias, Cavite",
     "latitude": "14.32363529",
     "longtitude": "120.9228246",
@@ -741,7 +741,7 @@
       "$oid": "649913c48dd3af6a7147b127"
     },
     "number": "31",
-    "building": "Gov. Luis A. Ferrer Jr. East National High School:",
+    "building": "Gov. Luis A. Ferrer Jr. East National High School -",
     "location": "Arnaldo Hwy, General Trias, Cavite",
     "latitude": "14.31088194",
     "longtitude": "120.9157536",
@@ -765,7 +765,7 @@
       "$oid": "649913c48dd3af6a7147b128"
     },
     "number": "32",
-    "building": "Sunny Brooke Elementary School: Building No. 2",
+    "building": "Sunny Brooke Elementary School - Building No. 2",
     "location": "Arnaldo Hwy, General Trias, Cavite",
     "latitude": "14.31476606",
     "longtitude": "120.9158032",
@@ -789,7 +789,7 @@
       "$oid": "649913c48dd3af6a7147b129"
     },
     "number": "33",
-    "building": "Sunny Brooke Elementary School: Building No. 4",
+    "building": "Sunny Brooke Elementary School - Building No. 4",
     "location": "Arnaldo Hwy, General Trias, Cavite",
     "latitude": "14.31476606",
     "longtitude": "120.9158032",
@@ -813,7 +813,7 @@
       "$oid": "649913c48dd3af6a7147b12a"
     },
     "number": "34",
-    "building": "Tropical Village Elementary School: Building No. 4",
+    "building": "Tropical Village Elementary School - Building No. 4",
     "location": "Pabahày 2000, General Trias, Cavite",
     "latitude": "14.30488704",
     "longtitude": "120.9173509",
@@ -837,7 +837,7 @@
       "$oid": "649913c48dd3af6a7147b12b"
     },
     "number": "35",
-    "building": "Tropical Village National High School: Mona G. Zafra Building",
+    "building": "Tropical Village National High School - Mona G. Zafra Building",
     "location": "Tropical Village, General Trias, Cavite",
     "latitude": "14.30342183",
     "longtitude": "120.9176261",
@@ -861,7 +861,7 @@
       "$oid": "649913c48dd3af6a7147b12c"
     },
     "number": "36",
-    "building": "Tropical Village National High School: DepEd Standard School Building",
+    "building": "Tropical Village National High School - DepEd Standard School Building",
     "location": "Tropical Village, General Trias, Cavite",
     "latitude": "14.30342183",
     "longtitude": "120.9176261",
@@ -885,7 +885,7 @@
       "$oid": "649913c48dd3af6a7147b12d"
     },
     "number": "37",
-    "building": "Caritas Bukid Kabataan Elementary School: Building No. 1",
+    "building": "Caritas Bukid Kabataan Elementary School - Building No. 1",
     "location": "San Francisco General Trias, Cavite",
     "latitude": "14.27960396",
     "longtitude": "120.9029571",
@@ -909,7 +909,7 @@
       "$oid": "649913c48dd3af6a7147b12e"
     },
     "number": "38",
-    "building": "Caritas Bukid Kabataan Elementary School: Building No. 2",
+    "building": "Caritas Bukid Kabataan Elementary School - Building No. 2",
     "location": "San Francisco General Trias, Cavite",
     "latitude": "14.27960396",
     "longtitude": "120.9029571",
@@ -933,7 +933,7 @@
       "$oid": "649913c48dd3af6a7147b12f"
     },
     "number": "39",
-    "building": "Caritas Bukid Kabataan Elementary School: Building No. 3",
+    "building": "Caritas Bukid Kabataan Elementary School - Building No. 3",
     "location": "San Francisco General Trias, Cavite",
     "latitude": "14.27960396",
     "longtitude": "120.9029571",
