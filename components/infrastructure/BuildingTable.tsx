@@ -94,9 +94,7 @@ export default function Building({
             <div className="rounded shadow">
               <Image
                 key={index}
-                src={`/images/${category}/${building[
-                  "building"
-                ].toUpperCase()}/${defect.image}`}
+                src={`/images/${category}/${building["image"]}/${defect.image}`}
                 alt={defect.description}
                 width="300"
                 height="300"
