@@ -28,7 +28,12 @@ export default function Building({
             </tr>
             <tr>
               <td className="ps-5 name">Building Name</td>
-              <td>{building["building"] || "None"}</td>
+              <td>
+                {building["building"] || "None"} ||{" "}
+                {`/images/${category}/${building[
+                  "building"
+                ].toUpperCase()}.jpg`}
+              </td>
             </tr>
             <tr>
               <td className="ps-5 name">Location</td>
