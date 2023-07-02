@@ -8,7 +8,6 @@ export default function Building({
   category: string;
   building: Record<string, any>;
 }) {
-  console.log(building);
   return (
     <>
       <div className="d-flex gap-4 flex-wrap justify-content-center mt-4 mb-5 building-data">
