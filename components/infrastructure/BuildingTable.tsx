@@ -1,5 +1,8 @@
 import Image from "next/image";
+import { Button } from "react-bootstrap";
 import Table from "react-bootstrap/Table";
+
+import { BsDownload } from "react-icons/bs";
 
 export default function Building({
   category,
@@ -92,6 +95,18 @@ export default function Building({
                   : building["risk mitigation actions"].map(
                       (info: any, index: number) => <p>{info}</p>
                     )}
+              </td>
+            </tr>
+            <tr>
+              <td className="ps-5 name">Audit Form</td>
+              <td>
+                <a
+                  className="btn btn-dark"
+                  href="/audit-form/glafjenhs.pdf"
+                  download={`${building["building"]}-audit-form.pdf`}
+                >
+                  <BsDownload className="mb-1" /> Download form
+                </a>
               </td>
             </tr>
           </tbody>
