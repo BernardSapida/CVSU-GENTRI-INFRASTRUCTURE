@@ -76,7 +76,19 @@
     "defects": [
       {
         "image": "defect-1.jpg",
+        "descriptions": "Broken exhaust fan"
+      },
+      {
+        "image": "defect-2.jpg",
         "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Tangled wirings"
       }
     ],
     "image": "arnaldo-barangay-hall",
@@ -134,7 +146,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on door opening"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on exterior wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on window opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on window opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Presence of fire extinguishers"
+      }
+    ],
     "image": "bacao-i-barangay-hall",
     "risk mitigation actions": [
       "Install safety signs and labels in the building to warn occupants of hazards and safe behaviors",
