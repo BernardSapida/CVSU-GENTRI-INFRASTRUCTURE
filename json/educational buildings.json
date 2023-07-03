@@ -849,7 +849,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack and discoloration of ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Missing doorknob"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of fire alarms"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Rusty Handrails"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Spalling on slab (ceiling)"
+      }
+    ],
     "image": "glafjenhs",
     "risk mitigation actions": []
   },
