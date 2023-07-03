@@ -98,7 +98,7 @@ export default function Building({
         </Table>
       </div>
       <p className="text-center fs-3 fw-bold">Building Defects</p>
-      <div className="d-flex gap-3 flex-wrap justify-content-center">
+      <div className="d-flex gap-3 flex-wrap justify-content-center defects">
         {building.defects.length > 0 ? (
           building.defects.map((defect: any, index: number) => (
             <div className="rounded shadow">
@@ -111,7 +111,7 @@ export default function Building({
                 priority={true}
                 className="rounded"
               />
-              <p className="text-center mt-2">{defect.descriptions}</p>
+              <p className="text-center m-2">{defect.descriptions}</p>
             </div>
           ))
         ) : (

@@ -21,7 +21,12 @@ body section div.landing-left p.text-label {
   color: var(--cvsu-green);
   font-size: clamp(20px, 5vw, 28px);
 }
-body section div.layat-diwa img {
+body section div.layat-diwa > img {
   display: block;
   width: 300px !important;
+}
+body section .defects div > img {
+  display: block;
+  width: 300px !important;
+  height: 300px !important;
 }/*# sourceMappingURL=infrastructures.css.map */

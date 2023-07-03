@@ -31,9 +31,17 @@ body {
     }
 
     & div.layat-diwa {
-      & img {
+      & > img {
         display: block;
         width: 300px !important;
+      }
+    }
+
+    & .defects div {
+      & > img {
+        display: block;
+        width: 300px !important;
+        height: 300px !important;
       }
     }
   }

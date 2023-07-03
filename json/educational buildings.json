@@ -431,9 +431,10 @@
     ],
     "image": "manggahan-elementary-school-14",
     "risk mitigation actions": [
-      "Structural Defects: Presence of some severe defects",
-      "Non-structural Defects: Presence of interrelated defects",
-      "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
+      "Ensure proper maintenance of the building's electrical, plumbing, and heating/cooling systems to prevent accidents and system failures.",
+      "Install pumps or water to provide water supply on higher floor levels",
+      "Consult with a structural engineer to check on spalling of structure elements, design elements or conduct repairs",
+      "Apply appropriate repair materials, such as epoxy-based or polymer-modified cementitious repair mortars, to restore the surface and prevent further spalling"
     ]
   },
   {
@@ -901,12 +902,30 @@
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [
-      "Broken electrical light switch",
-      "Cracks on Interior Beam",
-      "Missing gutter pipe",
-      "Spalling on slab (ceiling)",
-      "Spalling on slab (ceiling)",
-      "Spalling on slab (flooring)"
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken electrical light switch"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Cracks on Interior Beam"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Missing gutter pipe"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Spalling on slab (ceiling)"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Spalling on slab (ceiling)"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Spalling on slab (flooring)"
+      }
     ],
     "image": "sunny-brooke-lementary-school-4",
     "risk mitigation actions": [
