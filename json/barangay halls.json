@@ -21,7 +21,40 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and landslide",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Door Opening"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Door Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Slab"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Slab"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Loosen Bulb Receptacle"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Uncovered Light Switch"
+      }
+    ],
     "image": "alingaro-barangay-hall-new",
     "risk mitigation actions": []
   },
