@@ -64,7 +64,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Door Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Uncovered Circuit Breaker"
+      }
+    ],
     "image": "ggsames-1",
     "risk mitigation actions": []
   },
