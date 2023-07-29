@@ -80,7 +80,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of interrelated defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Glass Pane"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Broken Roof Eaves"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Broken Window Opening"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Paint Deterioration on Walls"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Spalling of Slab (Ceiling)"
+      }
+    ],
     "image": "alingaro-barangay-hall-old",
     "risk mitigation actions": []
   },
@@ -153,7 +182,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tile on Stair"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Cracked Tile"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Exposed Circuit Breaker"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Warping of Cladding"
+      }
+    ],
     "image": "bacao-i-multi-purpose_hall",
     "risk mitigation actions": []
   },
@@ -233,7 +287,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Exterior Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Tile"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Hole on the Ceiling"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Rust on Railings"
+      }
+    ],
     "image": "bacao-ii-barangay-hall-and-evacuation-center",
     "risk mitigation actions": []
   },
@@ -259,7 +338,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Ceiling Starting to Spall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Dangling Wires"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Exposed Cables"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of Fire Extinguisher"
+      }
+    ],
     "image": "bagumbayan-barangay-hall",
     "risk mitigation actions": []
   },
@@ -285,7 +381,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Light Fixture"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Window"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Tangled Cables"
+      }
+    ],
     "image": "biclatan-barangay-hall",
     "risk mitigation actions": []
   },
@@ -311,7 +436,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Paint Deterioration in Ceiling"
+      }
+    ],
     "image": "biclatan-multi-purpose-hall",
     "risk mitigation actions": []
   },
@@ -337,7 +487,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Outlet"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "buenavista-i-barangay-hall",
     "risk mitigation actions": []
   },
@@ -363,7 +542,40 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Light Fixture"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Walls"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Exposed Circuit Breaker"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Spalling of Slab (Ceiling)"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Tangled Pipes"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Unfastened Outlet"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "buenavista-ii-barangay-hall",
     "risk mitigation actions": []
   },
@@ -389,7 +601,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Tile"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Damaged Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Deteriorated Fascia"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Exposed Plumb line"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Missing Glass Panes"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Spalling of Slab (Ceiling)"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Warping of Roof Eaves"
+      }
+    ],
     "image": "buenavista-iii-barangay-hall",
     "risk mitigation actions": []
   },
@@ -415,7 +656,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tiles"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Damaged Roof Eave"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "No Light Fixture"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Rust on Purlins"
+      }
+    ],
     "image": "corregidor-barangay-hall",
     "risk mitigation actions": []
   },
@@ -484,7 +746,44 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Staircase"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Damaged Door Opening"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Exposed Electrical Wiring"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Exposed Pipe"
+      }
+    ],
     "image": "governor-ferrer-barangay-hall",
     "risk mitigation actions": []
   },
@@ -510,7 +809,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Parapet Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "javalera-barangay-hall",
     "risk mitigation actions": []
   },
@@ -536,7 +852,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Cladding"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      }
+    ],
     "image": "manggahan-barangay-hall",
     "risk mitigation actions": []
   },
@@ -562,7 +899,16 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Eaves"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      }
+    ],
     "image": "manggahan-multi-purpose-hall",
     "risk mitigation actions": []
   },
@@ -588,7 +934,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Eaves"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Ramp"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Wall"
+      }
+    ],
     "image": "navarro-barangay-hall",
     "risk mitigation actions": []
   },
@@ -614,7 +985,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Outlet"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Ceiling"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Evidence of Termite Infestation"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "panungyanan-barangay-hall",
     "risk mitigation actions": []
   },
@@ -640,7 +1028,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Tile (Lavatory)"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Damaged Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Unfastened Outlet"
+      }
+    ],
     "image": "pascam-i-barangay-hall",
     "risk mitigation actions": []
   },
@@ -666,7 +1071,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Damaged Column Edge"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Unfastened Ceiling Receptacle"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Water Stains On Ceiling"
+      }
+    ],
     "image": "pascam-ii-barangay-hall",
     "risk mitigation actions": []
   },
@@ -692,7 +1122,40 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Glass Pane"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Broken Glass Eave"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Broken Tiles on Stairs"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Exposed Rebar on Door Step"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "No Lightbulb"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Rust on Railings"
+      }
+    ],
     "image": "pasong-kawayan-i-barangay-hall",
     "risk mitigation actions": []
   },
@@ -718,7 +1181,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Beam Starting to Spall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Ceiling Waterstains"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Tile"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      }
+    ],
     "image": "pasong-kawayan-ii-barangay-hall",
     "risk mitigation actions": []
   },
@@ -744,7 +1228,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Dangling Wires"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Paint Deterioration on Wall"
+      }
+    ],
     "image": "pinagtipunan-barangay-hall",
     "risk mitigation actions": []
   },
@@ -770,7 +1279,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Ceiling Due to Leakage"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Tangled Wires"
+      }
+    ],
     "image": "prinza-barangay-hall",
     "risk mitigation actions": []
   },
@@ -796,7 +1326,48 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of interrelated defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Doorknob"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Broken Tiles on Stairs"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Staircase"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Hazardous Electrical Line"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Paint Deterioration"
+      },
+      {
+        "image": "defect-10.jpg",
+        "descriptions": "Spalling on Walls"
+      }
+    ],
     "image": "sampalucan-barangay-hall",
     "risk mitigation actions": []
   },
@@ -822,7 +1393,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Walls"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Dangling Cables"
+      }
+    ],
     "image": "santiago-barangay-hall",
     "risk mitigation actions": []
   },
@@ -848,7 +1444,44 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Broken Tile on Staircase"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Cracks in Column"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Missing Tiles"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "No Faucet"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Severe Crack on Wall"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Unfastened Outlet"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Warping of Ceiling and No Lightbulb"
+      }
+    ],
     "image": "santiago-multi-purpose-hall",
     "risk mitigation actions": []
   },
@@ -874,7 +1507,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tiles on Stairs"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Door"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "No Lightbulb"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Spalling of Beneath the Stairs"
+      }
+    ],
     "image": "san-francisco-barangay-hall",
     "risk mitigation actions": []
   },
@@ -900,7 +1562,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Door Jamb"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      }
+    ],
     "image": "san-gabriel-barangay-hall",
     "risk mitigation actions": []
   },
@@ -926,7 +1605,44 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Stairs"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Presence of Fire Extinguisher"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "san-juan-i-barangay-hall",
     "risk mitigation actions": []
   },
@@ -952,7 +1668,12 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Exterior Wall"
+      }
+    ],
     "image": "san-juan-i-tanod-office",
     "risk mitigation actions": []
   },
@@ -978,7 +1699,40 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Building Under Renovation"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall and Warping of Ceiling"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Demolished Wall"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Exposed Circuit Breaker"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "san-juan-ii-barangay-hall",
     "risk mitigation actions": []
   },
@@ -1004,7 +1758,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Parapet Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Parapet Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Window Opening"
+      }
+    ],
     "image": "santa-clara-barangay-hall",
     "risk mitigation actions": []
   },
@@ -1030,7 +1809,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Downspout Pipe"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Ceiling"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Unfastened Lighting Fixture"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Unplumbed Column"
+      }
+    ],
     "image": "santa-clara-multi-purpose-hall",
     "risk mitigation actions": []
   },
@@ -1056,7 +1860,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Deteriorated Ceiling"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Slab starting to Spall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Spalling on Slab(Ceiling)"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Warping of Ceiling"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "tapia-barangay-hall",
     "risk mitigation actions": []
   },
@@ -1065,7 +1894,7 @@
       "$oid": "649913ba8dd3af6a7147b104"
     },
     "number": "38",
-    "building": "Tapia Multi-purpose Hall",
+    "building": "Tapia Multi-Purpose Hall",
     "location": "Gov Ferrer Dr, Brgy. Tapia",
     "latitude": "14.36106521",
     "longtitude": "120.8808127",
@@ -1082,7 +1911,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tile"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Ceiling"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Rust on Railings"
+      }
+    ],
     "image": "tapia-multi-purpose-hall",
     "risk mitigation actions": []
   },
@@ -1108,7 +1962,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tiles"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Dangling Wires"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "No Doorknob"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Separation of Wall to Column"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Warping of Ceiling and Crack on Window Opening"
+      }
+    ],
     "image": "tejero-barangay-hall",
     "risk mitigation actions": []
   },
@@ -1134,7 +2013,44 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tiles"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Parapet Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Window Eaves"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "No Doorknob"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Damaged Ceiling"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Horizontal Crack on Wall"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Unfastened light fixture"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Warping of Ceiling"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "vibora-barangay-hall",
     "risk mitigation actions": []
   },
@@ -1160,7 +2076,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Roof Eaves"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Door Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Exposed Plumbing"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Leaks on Column"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Warping of Ceiling"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Water Stains Due to Leakages"
+      }
+    ],
     "image": "1896-barangay-hall",
     "risk mitigation actions": []
   }
