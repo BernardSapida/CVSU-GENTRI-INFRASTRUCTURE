@@ -115,7 +115,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Door"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Broken Pipe"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Presence of Fire Extinguisher and Alarm"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Warping Roof Eave"
+      }
+    ],
     "image": "ggsames-3",
     "risk mitigation actions": []
   },
@@ -141,7 +166,40 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of interrelated defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam and Rust on Connection"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Ceiling"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Door Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Missing Doorknob"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Rust on Fire Exit"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Severe Crack on Parapet Wall"
+      }
+    ],
     "image": "ggsames-4",
     "risk mitigation actions": []
   },
@@ -167,7 +225,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Door"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Broken Light Switch"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Damaged Door"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of Fire Alarm"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Renovated Flooring"
+      }
+    ],
     "image": "ggsames-7",
     "risk mitigation actions": []
   },
@@ -193,7 +272,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Detached Railing"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "No Ceiling"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "No Lavatory"
+      }
+    ],
     "image": "ggsames-14",
     "risk mitigation actions": []
   },
@@ -219,7 +323,48 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of interrelated defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Light Bulb"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Clogged Drain"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Parapet Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Damaged Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Exposed Pipes"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Presence of Fire Extinguisher and Alarm"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Renovated Flooring Crack"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Rusty Receptacle"
+      },
+      {
+        "image": "defect-10.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "ggsames-15",
     "risk mitigation actions": []
   },
@@ -245,7 +390,48 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of interrelated defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Door"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Broken Switch"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Broken Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Missing Glass Pane"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Missing Lavatory"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Presence of Fire Extinguisher and Alarm"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Renovated Floor Cracks"
+      },
+      {
+        "image": "defect-10.jpg",
+        "descriptions": "Unfastened Ceiling"
+      }
+    ],
     "image": "ggsames-16",
     "risk mitigation actions": []
   },
@@ -271,7 +457,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Damaged Stair Step"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of Fire Alarm"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Rust on Fire Exit Railings"
+      }
+    ],
     "image": "ggsames-17",
     "risk mitigation actions": []
   },
@@ -297,7 +504,40 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Roof Eaves"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Parapet Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Evidence of Termite Infestation"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Rust on Gate"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Spalling on Slab"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Warping of Ceiling"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Warping of Ceiling"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "ggsames-20",
     "risk mitigation actions": []
   },
@@ -319,7 +559,24 @@
     "rvs score": "2.3 (Safe)",
     "condition info": [],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Presence of Fire Extinguisher"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Rusty Fire Exit"
+      }
+    ],
     "image": "manggahan-elementary-school-1",
     "risk mitigation actions": [
       "Ensure proper maintenance of the building's electrical, plumbing, and heating/cooling systems to prevent accidents and system failures",
@@ -350,7 +607,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Damaged Ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Damaged Door"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Dangling Junction Box"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Minor Spalling of Flooring"
+      }
+    ],
     "image": "manggahan-elementary-school-3",
     "risk mitigation actions": []
   },
@@ -376,7 +650,20 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Window Opening"
+      }
+    ],
     "image": "manggahan-elementary-school-10",
     "risk mitigation actions": []
   },
@@ -402,7 +689,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Stairs"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Missing glass pane"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of Fire Alarm"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "manggahan-elementary-school-13",
     "risk mitigation actions": []
   },
@@ -484,7 +792,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Missing Doorknob"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Pipe Leak"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Presence of Fire Extinguisher and Alarm"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Rusty Railing"
+      }
+    ],
     "image": "buenavista-elementary-school-1",
     "risk mitigation actions": []
   },
@@ -510,7 +843,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Stairs"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Dangling Electrical Wiring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Minor Spalling on Flooring"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Missing Doorknob"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Uncovered Outlet"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Warping on Ceiling"
+      }
+    ],
     "image": "buenavista-elementary-school-3",
     "risk mitigation actions": []
   },
@@ -536,7 +894,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Stair"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Minor Spalling on Flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Missing Light Fixture"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of Fire Extinguisher and Alarm"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "buenavista-elementary-school-11",
     "risk mitigation actions": []
   },
@@ -562,7 +941,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Damaged Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Deteriorated Roof Eave"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Missing Glass Pane"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Spalling on Slab (Ceiling)"
+      }
+    ],
     "image": "buenavista-elementary-school-12",
     "risk mitigation actions": []
   },
@@ -588,7 +984,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of localized defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Drainage Pipe"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Damaged Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Missing Glass Panes"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Presence of Fire Extinguisher and Alarm"
+      }
+    ],
     "image": "buenavista-elementary-school-13",
     "risk mitigation actions": []
   },
@@ -614,7 +1031,20 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Roof Eave"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack Flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      }
+    ],
     "image": "buenavista-elementary-school-14",
     "risk mitigation actions": []
   },
@@ -640,7 +1070,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Tile"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Deteriorated Ceiling"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Rust on Railings"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "aannh-2",
     "risk mitigation actions": []
   },
@@ -666,7 +1121,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Light Switch"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "No Door knob"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Presence of Fire Alarm"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of Fire Extinguisher"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Warping to Ceiling"
+      }
+    ],
     "image": "aannh-3",
     "risk mitigation actions": []
   },
@@ -692,7 +1168,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "No outlet"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Presence of Fire Alarm"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Presence of Fire Alarm"
+      }
+    ],
     "image": "aannh-6",
     "risk mitigation actions": []
   },
@@ -718,7 +1223,40 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Door Opening"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Unfastened Outlet"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "aannh-7",
     "risk mitigation actions": []
   },
@@ -796,7 +1334,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Door Opening"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Flooring"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Missing Window Pane"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Presence of Fire Extinguisher and Alarm"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Warping of Ceiling"
+      }
+    ],
     "image": "lyfjsh-lgu-type-building",
     "risk mitigation actions": []
   },
@@ -848,7 +1415,44 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of interrelated defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Minor Spalling in Flooring"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Presence of Fire Alarm"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Separating Framing to Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Severe Crack on Stair"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Spalling on Slab"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Spalling on Slab"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Uncovered Light Switch"
+      }
+    ],
     "image": "san-francisco-elementary-school-2",
     "risk mitigation actions": []
   },
@@ -877,27 +1481,35 @@
     "defects": [
       {
         "image": "defect-1.jpg",
-        "descriptions": "Crack and discoloration of ceiling"
+        "descriptions": "Crack on Column"
       },
       {
         "image": "defect-2.jpg",
-        "descriptions": "Crack on flooring"
+        "descriptions": "Crack on Ramp"
       },
       {
         "image": "defect-3.jpg",
-        "descriptions": "Missing doorknob"
+        "descriptions": "Crack on Wall"
       },
       {
         "image": "defect-4.jpg",
-        "descriptions": "Presence of fire alarms"
+        "descriptions": "Crack on Wall"
       },
       {
         "image": "defect-5.jpg",
-        "descriptions": "Rusty Handrails"
+        "descriptions": "Damaged Door"
       },
       {
         "image": "defect-6.jpg",
-        "descriptions": "Spalling on slab (ceiling)"
+        "descriptions": "Minor Spalling on Steps of Stairs"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Severe Crack on Column"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Warping of Ceiling"
       }
     ],
     "image": "glafjenhs",
@@ -925,7 +1537,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken electrical light switch"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Cracks on Interior Beam"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Missing gutter pipe"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Spalling on slab (ceiling)"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Spalling on slab (ceiling)"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Spalling on slab (flooring)"
+      }
+    ],
     "image": "sunny-brooke-lementary-school-2",
     "risk mitigation actions": []
   },
@@ -954,27 +1591,35 @@
     "defects": [
       {
         "image": "defect-1.jpg",
-        "descriptions": "Broken electrical light switch"
+        "descriptions": "Crack on Column"
       },
       {
         "image": "defect-2.jpg",
-        "descriptions": "Cracks on Interior Beam"
+        "descriptions": "Crack on Column"
       },
       {
         "image": "defect-3.jpg",
-        "descriptions": "Missing gutter pipe"
+        "descriptions": "Crack on Flooring"
       },
       {
         "image": "defect-4.jpg",
-        "descriptions": "Spalling on slab (ceiling)"
+        "descriptions": "Crack on Ramp"
       },
       {
         "image": "defect-5.jpg",
-        "descriptions": "Spalling on slab (ceiling)"
+        "descriptions": "Crack on Wall"
       },
       {
         "image": "defect-6.jpg",
-        "descriptions": "Spalling on slab (flooring)"
+        "descriptions": "Damage Wall"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Damaged Ceiling"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Presence of Fire Extinguishers"
       }
     ],
     "image": "sunny-brooke-lementary-school-4",
@@ -1007,7 +1652,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken ceiling due to pipe leaks"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Missing jalousie window panes"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Presence of fire alarms"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Rusty stair handrail"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Slab starting to spall"
+      }
+    ],
     "image": "tropical-village-elementary-school-4",
     "risk mitigation actions": []
   },
@@ -1059,7 +1725,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tile"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on window and door opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Presence of Fire Extinguisher"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Spalling of slab (ceiling)"
+      }
+    ],
     "image": "tropical-village-national-high-school-dssb",
     "risk mitigation actions": []
   },
@@ -1085,7 +1768,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Exterior Wall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Evidence of Termite Infestation"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Paint deterioration on wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Water stains on Roof Eaves"
+      }
+    ],
     "image": "caritas-bukid-kabataan-elementary-school-1",
     "risk mitigation actions": []
   },
@@ -1111,7 +1819,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on flooring"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Partition Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Evidence of Termite Infestation"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Warping of Roof Eaves"
+      }
+    ],
     "image": "caritas-bukid-kabataan-elementary-school-2",
     "risk mitigation actions": []
   },
@@ -1144,7 +1873,15 @@
       },
       {
         "image": "defect-2.jpg",
+        "descriptions": "Broken Roof Eaves"
+      },
+      {
+        "image": "defect-3.jpg",
         "descriptions": "Damaged Door Frame"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Water stains and warping of Roof Eaves"
       }
     ],
     "image": "caritas-bukid-kabataan-elementary-school-3",
