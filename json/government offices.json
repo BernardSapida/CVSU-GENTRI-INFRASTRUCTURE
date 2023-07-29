@@ -21,7 +21,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Light Fixture"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall and Not Covered Electrical Outlet "
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Small Crack on Staircase"
+      }
+    ],
     "image": "compac-community-police-precinct-manggahan",
     "risk mitigation actions": []
   },
@@ -47,7 +68,48 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tiles"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Cracks on Staircase"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Flooring Under Renovation"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Leaks on Windows"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Paint Deterioration Due to Moisture"
+      },
+      {
+        "image": "defect-10.jpg",
+        "descriptions": "Rusty Roofing"
+      }
+    ],
     "image": "city-health-center",
     "risk mitigation actions": []
   },
@@ -73,7 +135,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Loose Tiles"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Multiple Cracks on Wall"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Small Crack on Wall"
+      }
+    ],
     "image": "manpower-development-center",
     "risk mitigation actions": []
   },
@@ -99,7 +186,36 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Cracks on column and beam"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Cracks on Ramp"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Severe crack on exterior column"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Spalling on Ceiling"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Water stains and cracks on eaves"
+      }
+    ],
     "image": "bureau-of-fire-protection-main-building",
     "risk mitigation actions": []
   },
@@ -125,7 +241,16 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Wall"
+      }
+    ],
     "image": "bureau-of-fire-protection-parking-area",
     "risk mitigation actions": []
   },
@@ -177,7 +302,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack and mold on ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on stair riser"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Molds on ceiling"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Paint deterioration"
+      }
+    ],
     "image": "san-francisco-police-community-precinct",
     "risk mitigation actions": []
   },
@@ -203,7 +349,28 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on ceiling"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on garden box"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Molds in ceiling"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Presence of fire extinguisher"
+      }
+    ],
     "image": "city-library",
     "risk mitigation actions": []
   },
@@ -229,7 +396,32 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: No adverse defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Staircase"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Wall"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Paint Deterioration on Walls"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Pipe Renovation"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Vertical Crack on Wall"
+      }
+    ],
     "image": "city-hall",
     "risk mitigation actions": []
   },
@@ -255,7 +447,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, typhoon, and flooding",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken tiles"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Horizontal Cracks on wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Presence of Fire Extinguisher"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Water stains on beams"
+      }
+    ],
     "image": "general-trias-convention-and-cultural-center",
     "risk mitigation actions": []
   },
