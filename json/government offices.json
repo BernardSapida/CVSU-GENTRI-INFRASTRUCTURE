@@ -276,7 +276,44 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Tile"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Column"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Paint Deterioration on Beam"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Presence of Fire Extinguisher"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Repaired Pipe"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Spalling of Slab (Ceiling)"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Unfastened Lighting Fixture"
+      }
+    ],
     "image": "city-disaster-risk-reduction-and-management-council",
     "risk mitigation actions": []
   },
@@ -369,6 +406,10 @@
       {
         "image": "defect-5.jpg",
         "descriptions": "Presence of fire extinguisher"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Crack on wall"
       }
     ],
     "image": "city-library",

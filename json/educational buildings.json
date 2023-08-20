@@ -1282,7 +1282,48 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Broken Door"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Broken Light Switches"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Corrosion on Railings"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on column"
+      },
+      {
+        "image": "defect-5.jpg",
+        "descriptions": "Crack on Window Opening"
+      },
+      {
+        "image": "defect-6.jpg",
+        "descriptions": "Cracks on Exterior Wall"
+      },
+      {
+        "image": "defect-7.jpg",
+        "descriptions": "Minor Spalling on Floor"
+      },
+      {
+        "image": "defect-8.jpg",
+        "descriptions": "Minor Spalling on Wall"
+      },
+      {
+        "image": "defect-9.jpg",
+        "descriptions": "Presence of Fire Alarm"
+      },
+      {
+        "image": "defect-10.jpg",
+        "descriptions": "Warping on ceiling"
+      }
+    ],
     "image": "lyfjsh-pagcor-building",
     "risk mitigation actions": []
   },
@@ -1389,7 +1430,20 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on door opening"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Paint Deterioration"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Presence of Fire Extinguisher"
+      }
+    ],
     "image": "lyfjsh-new-building",
     "risk mitigation actions": []
   },
@@ -1699,7 +1753,24 @@
       "Ancillary/Auxiliary Equipment and Facilities Defects: Presence of minor defects"
     ],
     "hazard info": "Prone to: earthquake, and typhoon",
-    "defects": [],
+    "defects": [
+      {
+        "image": "defect-1.jpg",
+        "descriptions": "Crack on Beam"
+      },
+      {
+        "image": "defect-2.jpg",
+        "descriptions": "Crack on Exterior Wall"
+      },
+      {
+        "image": "defect-3.jpg",
+        "descriptions": "Crack on Staircase"
+      },
+      {
+        "image": "defect-4.jpg",
+        "descriptions": "Crack on Wall"
+      }
+    ],
     "image": "tropical-village-national-high-school-mgzb",
     "risk mitigation actions": []
   },
