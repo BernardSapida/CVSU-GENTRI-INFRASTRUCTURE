@@ -40,7 +40,10 @@
       }
     ],
     "image": "cavite-state-university-general-trias-campus",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Repair leaks, seal concrete with waterproofing material, choose the right paint, prepare the surface, apply a primer, apply multiple coats, and regularly monitor and maintain the surface to prevent moisture infiltration and paint warping. Regularly inspect and address any issues to prevent further damage.",
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack."
+    ]
   },
   {
     "_id": {
@@ -91,7 +94,10 @@
       }
     ],
     "image": "ggsames-1",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets, and uncovered panel boards and make sure they are well fastened."
+    ]
   },
   {
     "_id": {
@@ -142,7 +148,11 @@
       }
     ],
     "image": "ggsames-3",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Identify the cause of the problem and replace broken door with new ones."
+    ]
   },
   {
     "_id": {
@@ -201,7 +211,11 @@
       }
     ],
     "image": "ggsames-4",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Replace broken door knobs with new ones.",
+      "For extensive rust, prime with an oil-based rust conversion metal primer to prevent further corrosion."
+    ]
   },
   {
     "_id": {
@@ -248,7 +262,10 @@
       }
     ],
     "image": "ggsames-7",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Identify the cause of the problem and replace broken door with new ones.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened."
+    ]
   },
   {
     "_id": {
@@ -299,7 +316,9 @@
       }
     ],
     "image": "ggsames-14",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack."
+    ]
   },
   {
     "_id": {
@@ -366,7 +385,11 @@
       }
     ],
     "image": "ggsames-15",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened.",
+      "Identify the cause of the problem and replace broken wall with new ones."
+    ]
   },
   {
     "_id": {
@@ -433,7 +456,11 @@
       }
     ],
     "image": "ggsames-16",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened.",
+      "Identify the cause of the problem and replace broken wall with new ones. Replace the broken or missing glass with new one and make sure it is secured and well-fastened."
+    ]
   },
   {
     "_id": {
@@ -480,7 +507,10 @@
       }
     ],
     "image": "ggsames-17",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "For extensive rust, prime with an oil-based rust conversion metal primer to prevent further corrosion."
+    ]
   },
   {
     "_id": {
@@ -539,7 +569,12 @@
       }
     ],
     "image": "ggsames-20",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "For spalling, use high-strength materials like non-shrink grout, epoxy resin, or structural repair mortar to patch and restore damaged concrete. Seek professional advice from a structural engineer to assess severity and root causes, providing expert guidance on the appropriate course of action.",
+      "For extensive rust, prime with an oil-based rust conversion metal primer to prevent further corrosion.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones."
+    ]
   },
   {
     "_id": {
@@ -626,7 +661,11 @@
       }
     ],
     "image": "manggahan-elementary-school-3",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Replace broken door knobs with new ones.",
+      "Use a high-quality concrete patching compound or repair mortar to fill in the spalled areas. Typically, you'll need to dampen the area before applying the patching compound to ensure good adhesion."
+    ]
   },
   {
     "_id": {
@@ -665,7 +704,9 @@
       }
     ],
     "image": "manggahan-elementary-school-10",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack."
+    ]
   },
   {
     "_id": {
@@ -712,7 +753,11 @@
       }
     ],
     "image": "manggahan-elementary-school-13",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Replace the broken or missing glass with new one and make sure it is secured and well-fastened."
+    ]
   },
   {
     "_id": {
@@ -819,7 +864,12 @@
       }
     ],
     "image": "buenavista-elementary-school-1",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Hire a plumber to fix the source of the leakage.",
+      "Replace broken door knobs with new ones.",
+      "For extensive rust, prime with an oil-based rust conversion metal primer to prevent further corrosion."
+    ]
   },
   {
     "_id": {
@@ -870,7 +920,12 @@
       }
     ],
     "image": "buenavista-elementary-school-3",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened. Replace broken door knobs with new ones.",
+      "Use a high-quality concrete patching compound or repair mortar to fill in the spalled areas. Typically, you'll need to dampen the area before applying the patching compound to ensure good adhesion."
+    ]
   },
   {
     "_id": {
@@ -917,7 +972,12 @@
       }
     ],
     "image": "buenavista-elementary-school-11",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened.",
+      "Use a high-quality concrete patching compound or repair mortar to fill in the spalled areas. Typically, you'll need to dampen the area before applying the patching compound to ensure good adhesion."
+    ]
   },
   {
     "_id": {
@@ -960,7 +1020,12 @@
       }
     ],
     "image": "buenavista-elementary-school-12",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For spalling, use high-strength materials like non-shrink grout, epoxy resin, or structural repair mortar to patch and restore damaged concrete.",
+      "Seek professional advice from a structural engineer to assess severity and root causes, providing expert guidance on the appropriate course of action.",
+      "Replace the broken or missing glass with new one and make sure it is secured and well-fastened.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones."
+    ]
   },
   {
     "_id": {
@@ -1007,7 +1072,11 @@
       }
     ],
     "image": "buenavista-elementary-school-13",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Replace the broken or missing glass with new one and make sure it is secured and well-fastened.",
+      "Hire a plumber to fix the source of the leakage."
+    ]
   },
   {
     "_id": {
@@ -1046,7 +1115,10 @@
       }
     ],
     "image": "buenavista-elementary-school-14",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Identify and address common causes of eaves warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones."
+    ]
   },
   {
     "_id": {
@@ -1097,7 +1169,10 @@
       }
     ],
     "image": "aannh-2",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "For extensive rust, prime with an oil-based rust conversion metal primer to prevent further corrosion."
+    ]
   },
   {
     "_id": {
@@ -1144,7 +1219,10 @@
       }
     ],
     "image": "aannh-3",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened. Replace broken door knobs with new ones."
+    ]
   },
   {
     "_id": {
@@ -1199,7 +1277,10 @@
       }
     ],
     "image": "aannh-6",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened.",
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack."
+    ]
   },
   {
     "_id": {
@@ -1258,7 +1339,11 @@
       }
     ],
     "image": "aannh-7",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened."
+    ]
   },
   {
     "_id": {
@@ -1325,7 +1410,12 @@
       }
     ],
     "image": "lyfjsh-pagcor-building",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Identify the cause of the problem and replace broken door with new ones.",
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened.",
+      "Use a high-quality concrete patching compound or repair mortar to fill in the spalled areas. Typically, you'll need to dampen the area before applying the patching compound to ensure good adhesion.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones."
+    ]
   },
   {
     "_id": {
@@ -1351,7 +1441,11 @@
     "hazard info": "Prone to: earthquake, and typhoon",
     "defects": [],
     "image": "lyfjsh-deped-standard-school-building",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For extensive rust, prime with an oil-based rust conversion metal primer to prevent further corrosion.",
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Before repainting, remove flaking or loose paint to create a smooth, clean surface. Use primer for increased adhesion. Repaint affected areas when paint shows signs of wear and tear for a durable finish."
+    ]
   },
   {
     "_id": {
@@ -1406,7 +1500,11 @@
       }
     ],
     "image": "lyfjsh-lgu-type-building",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Replace the broken or missing glass with new one and make sure it is secured and well-fastened.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones."
+    ]
   },
   {
     "_id": {
@@ -1445,7 +1543,10 @@
       }
     ],
     "image": "lyfjsh-new-building",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Before repainting, remove flaking or loose paint to create a smooth, clean surface. Use primer for increased adhesion. Repaint affected areas when paint shows signs of wear and tear for a durable finish."
+    ]
   },
   {
     "_id": {
@@ -1508,7 +1609,12 @@
       }
     ],
     "image": "san-francisco-elementary-school-2",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Use a high-quality concrete patching compound or repair mortar to fill in the spalled areas. Typically, you'll need to dampen the area before applying the patching compound to ensure good adhesion.",
+      "For spalling, use high-strength materials like non-shrink grout, epoxy resin, or structural repair mortar to patch and restore damaged concrete.",
+      "Seek professional advice from a structural engineer to assess severity and root causes, providing expert guidance on the appropriate course of action."
+    ]
   },
   {
     "_id": {
@@ -1567,7 +1673,12 @@
       }
     ],
     "image": "glafjenhs",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Consult a structural engineer or professional to evaluate crack severity and identify root causes, providing expert guidance on the appropriate course of action.",
+      "Use a high-quality concrete patching compound or repair mortar to fill in the spalled areas. Typically, you'll need to dampen the area before applying the patching compound to ensure good adhesion."
+    ]
   },
   {
     "_id": {
@@ -1618,7 +1729,12 @@
       }
     ],
     "image": "sunny-brooke-lementary-school-2",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Replace broken electrical fixtures including light bulbs, light switches, or convenience outlets and make sure they are well fastened.",
+      "For spalling, use high-strength materials like non-shrink grout, epoxy resin, or structural repair mortar to patch and restore damaged concrete.",
+      "Seek professional advice from a structural engineer to assess severity and root causes, providing expert guidance on the appropriate course of action.",
+      "Consult a structural engineer or professional to evaluate crack severity and identify root causes, providing expert guidance on the appropriate course of action."
+    ]
   },
   {
     "_id": {
@@ -1678,10 +1794,8 @@
     ],
     "image": "sunny-brooke-lementary-school-4",
     "risk mitigation actions": [
-      "Ensure proper maintenance of the building's electrical, plumbing, and heating/cooling systems to prevent accidents and system failures",
-      "Install pumps or water to provide water supply on higher floor levels",
-      "Consult with a structural engineer to check on spalling of structure elements, design elements or conduct repairs",
-      "Apply appropriate repair materials, such as epoxy-based or polymer-modified cementitious repair mortars, to restore the surface and prevent further spalling"
+      "dentify and address common causes of ceiling damages, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack."
     ]
   },
   {
@@ -1729,7 +1843,11 @@
       }
     ],
     "image": "tropical-village-elementary-school-4",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "dentify and address common causes of ceiling damages, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Replace the broken or missing glass with new one and make sure it is secured and well-fastened.",
+      "Consult a structural engineer or professional to evaluate crack or spalling severity and identify root causes, providing expert guidance on the appropriate course of action."
+    ]
   },
   {
     "_id": {
@@ -1772,7 +1890,9 @@
       }
     ],
     "image": "tropical-village-national-high-school-mgzb",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack."
+    ]
   },
   {
     "_id": {
@@ -1815,7 +1935,12 @@
       }
     ],
     "image": "tropical-village-national-high-school-dssb",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For spalling, use high-strength materials like non-shrink grout, epoxy resin, or structural repair mortar to patch and restore damaged concrete.",
+      "Seek professional advice from a structural engineer to assess severity and root causes, providing expert guidance on the appropriate course of action.",
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "For loose tiles, you may use bonding agent to put it in place. Replacement is the suitable solution for broken tiles to prevent accidents."
+    ]
   },
   {
     "_id": {
@@ -1866,7 +1991,11 @@
       }
     ],
     "image": "caritas-bukid-kabataan-elementary-school-1",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Before repainting, remove flaking or loose paint to create a smooth, clean surface. Use primer for increased adhesion. Repaint affected areas when paint shows signs of wear and tear for a durable finish.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones."
+    ]
   },
   {
     "_id": {
@@ -1913,7 +2042,11 @@
       }
     ],
     "image": "caritas-bukid-kabataan-elementary-school-2",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "For non-structural cracks in materials like concrete or masonry, use appropriate sealants or fillers. These can prevent moisture infiltration and help stabilize the crack.",
+      "Before repainting, remove flaking or loose paint to create a smooth, clean surface. Use primer for increased adhesion. Repaint affected areas when paint shows signs of wear and tear for a durable finish.",
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones."
+    ]
   },
   {
     "_id": {
@@ -1956,6 +2089,9 @@
       }
     ],
     "image": "caritas-bukid-kabataan-elementary-school-3",
-    "risk mitigation actions": []
+    "risk mitigation actions": [
+      "Identify and address common causes of ceiling warping, such as water leaks, structural issues, humidity, or improper installation, and replace damaged ceilings with new ones.",
+      "Identify the cause of the problem and replace broken door with new ones."
+    ]
   }
 ]
